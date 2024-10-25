@@ -1,0 +1,187 @@
+﻿@using ProjectAdmin.Models
+
+@{
+    ViewBag.Title = "EditProfile";
+    var CLientData = ViewBag.Data as SignUp;
+    var plainTextBytes = System.Convert.FromBase64String(CLientData.Password);
+    var convertpass = System.Text.Encoding.UTF8.GetString(plainTextBytes);
+}
+
+<!-- Container-fluid starts -->
+<div class="container-fluid mt-3">
+    <div class="row">
+        <div class="col-sm-12">
+            <form class="md-float-material form-material" method="post" action="EditProfile" enctype="multipart/form-data">
+                <div class="auth-box card">
+                    <div class="card-block">
+                        <div class="row m-b-20">
+                            <div class="col-md-12">
+                                <h3 class="text-center txt-primary mt-3">Profile Update</h3>
+                            </div>
+                        </div>
+                        <div class="form-group form-primary">
+                            <input type="hidden" name="Roles_Fk" value="@CLientData.Roles_Fk" class="form-control">
+                            <input type="text" name="Username" value="@CLientData.Username" class="form-control" required="">
+                            <span class="form-bar"></span>
+                            <label class="float-label">Choose Username</label>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="form-group form-primary">
+                                    <input type="text" name="Fname" value="@CLientData.Fname" class="form-control" required="">
+                                    <span class="form-bar"></span>
+                                    <label class="float-label">First Name</label>
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="form-group form-primary">
+                                    <input type="text" value="@CLientData.Lname" name="Lname" class="form-control" required="">
+                                    <span class="form-bar"></span>
+                                    <label class="float-label">Last Name</label>
+                                </div>
+                            </div>
+                        </div>
+                        @*Gender ke liye hm kaam karenege nazreeen ub*@
+                        <div class="form-group form-primary">
+                            <select name="Gender" class="form-control" style="width:100% !important;">
+                                <option selected disabled>-------------------------------------------------------------------------------------------- Select Gender -------------------------------------------------------------------------------------------- </option>
+                                @if (CLientData.Gender == "Male")
+                                {
+                                    <option value="Male" selected>Male</option>
+                                }
+                                else if (CLientData.Gender == "Female")
+                                {
+                                    <option value="Female" selected>Female</option>
+                                }
+                                else if (CLientData.Gender == "Others")
+                                {
+                                    <option value="Others" selected>Others</option>
+                                }
+                                else
+                                {
+                                    <option value="Male">Male</option>
+                                    <option value="Female">Female</option>
+                                    <option value="Others">Others</option>
+                                }
+
+                            </select>
+                        </div>
+                        @*Country ke liye hm kaam karenege nazreeen ub*@
+                        <div class="form-group form-primary">
+                            <select name="Country_Fk" class="form-control" style="width:100% !important;">
+                                <option selected disabled>-------------------------------------------------------------------------------------------- Select Country -------------------------------------------------------------------------------------------- </option>
+                                @foreach (var item in ViewBag.AllCountries)
+                                {
+                                    if (@item.CID == CLientData.Country_Fk)
+                                    {
+                                        <option value="@item.CID" selected>@item.Country1</option>
+                                    }
+                                    else
+                                    {
+                                        <option value="@item.CID">@item.Country1</option>
+                                    }
+
+
+                                }
+                            </select>
+                        </div>
+
+                        <div class="form-group form-primary">
+                            <input type="text" name="Email" value="@CLientData.Email" class="form-control" required="">
+                            <span class="form-bar"></span>
+                            <label class="float-label">Your Email Address</label>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="form-group form-primary">
+                                    <input type="password" id="password" value="@convertpass" name="Password" onChange="onChange()" class="form-control" required="">
+                                    <input type="checkbox" onclick="myFunction()">Show Password
+                                    <span class="form-bar"></span>
+                                    <label class="float-label">Password</label>
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="form-group form-primary">
+                                    <input type="password" id="confirm_password" value="@convertpass" onChange="onChange()" name="ConfirmPassword" class="form-control" required="">
+                                    <input type="checkbox" onclick="myFunction1()">Show Password
+                                    <span class="form-bar"></span>
+                                    <label class="float-label">Confirm Password</label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="form-group form-primary">
+                                    @if (Session["Image"] != null)
+                                    {
+                                        <input type="file" name="file" id="imgInp" class="form-control">
+                                        <img src="~/ProjectImages/@CLientData.ImagePath" id="blah" width="200px" height="200px" />
+                                    }
+                                    else
+                                    {
+                                        <input type="file" name="file" id="imgInp" class="form-control">
+                                        <img src="~/ProjectImages/@CLientData.ImagePath" id="blah" width="200px" height="200px" />
+                                    }
+                                    <label class="float-label">Choose File</label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row m-t-25 text-left">
+                            <div class="col-md-12">
+                                <div class="fade-in-primary">
+                                    <label>
+                                        @if (Convert.ToString(CLientData.TermsConditions) == "Approved")
+                                        {
+                                            <input type="checkbox" value="Approved" name="TermsConditions" checked>
+                                            <input type="hidden" value="Not Approved" name="TermsConditions" />
+                                        }
+                                        else
+                                        {
+                                            <input type="checkbox" value="Approved" name="TermsConditions">
+
+                                        }
+                                        <span class="cr"><i class="cr-icon icofont icofont-ui-check txt-primary"></i></span>
+                                        <span class="text-inverse">I read and accept <a href="#">Terms &amp; Conditions.</a></span>
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="fade-in-primary">
+                                    <label>
+                                        @if (Convert.ToString(CLientData.Newsletter) == "Approved")
+                                        {
+                                            <input type="checkbox" value="Approved" name="Newsletter" checked>
+                                            <input type="hidden" value="Not Approved" name="Newsletter">
+                                        }
+                                        else
+                                        {
+                                            <input type="checkbox" value="Approved" name="Newsletter">
+
+                                        }
+                                        <span class="cr"><i class="cr-icon icofont icofont-ui-check txt-primary"></i></span>
+                                        <span class="text-inverse">Send me the <a href="#!">Newsletter</a> weekly.</span>
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row m-t-30">
+                            <div class="col-md-12">
+                                <button type="submit" class="btn btn-primary btn-md btn-block waves-effect text-center m-b-20">Update Now</button>
+                            </div>
+                        </div>
+                        <hr />
+                        <div class="row">
+                            <div class="col-md-12">
+                                @ViewBag.MessageEdit
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <!-- end of col-sm-12 -->
+    </div>
+    <!-- end of row -->
+</div>
+

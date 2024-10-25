@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PharmacyModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="CategoryId" />
+    </Key>
+    <Property Name="CategoryId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CategoryName" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Products" Relationship="Self.FK__Product__Categor__300424B4" FromRole="Category" ToRole="Product" />
+  </EntityType>
+  <EntityType Name="ContectU">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="Number" Type="Int64" />
+    <Property Name="Email" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="Message" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Country">
+    <Key>
+      <PropertyRef Name="CID" />
+    </Key>
+    <Property Name="CID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Country1" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="SignUps" Relationship="Self.FK__SignUp__Country___32E0915F" FromRole="Country" ToRole="SignUp" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="ProductId" />
+    </Key>
+    <Property Name="ProductId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ProductName" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="ProductImage" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="Quantity" Type="Int32" />
+    <Property Name="Price" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="Category_FK" Type="Int32" />
+    <Property Name="SignInfk" Type="Int32" />
+    <NavigationProperty Name="Category" Relationship="Self.FK__Product__Categor__300424B4" FromRole="Product" ToRole="Category" />
+    <NavigationProperty Name="SignUp" Relationship="Self.FK__Product__SignInf__30F848ED" FromRole="Product" ToRole="SignUp" />
+    <NavigationProperty Name="UserProductDatas" Relationship="Self.FK__UserProdu__ProID__33D4B598" FromRole="Product" ToRole="UserProductData" />
+  </EntityType>
+  <EntityType Name="Resume">
+    <Key>
+      <PropertyRef Name="ResumeId" />
+    </Key>
+    <Property Name="ResumeId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ResumeDocumentPath" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="UploadedData" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="SignIn_Fk" Type="Int32" />
+    <NavigationProperty Name="SignUp" Relationship="PharmacyModel.FK_Resume_SignUp" FromRole="Resume" ToRole="SignUp" />
+  </EntityType>
+  <EntityType Name="SignUp">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Username" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Email" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Fname" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Lname" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Gender" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Password" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="ConfirmPassword" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="TermsConditions" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Newsletter" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="ImagePath" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="CreatedAt" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="UpdatedBy" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Status" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Roles_Fk" Type="Int32" />
+    <Property Name="Country_Fk" Type="Int32" />
+    <NavigationProperty Name="Country" Relationship="Self.FK__SignUp__Country___32E0915F" FromRole="SignUp" ToRole="Country" />
+    <NavigationProperty Name="Products" Relationship="Self.FK__Product__SignInf__30F848ED" FromRole="SignUp" ToRole="Product" />
+    <NavigationProperty Name="UserRole" Relationship="Self.FK__SignUp__Roles_Fk__31EC6D26" FromRole="SignUp" ToRole="UserRoles" />
+    <NavigationProperty Name="UserProductDatas" Relationship="Self.FK__UserProdu__SignI__34C8D9D1" FromRole="SignUp" ToRole="UserProductData" />
+    <NavigationProperty Name="Resumes" Relationship="PharmacyModel.FK_Resume_SignUp" FromRole="SignUp" ToRole="Resume" />
+  </EntityType>
+  <EntityType Name="UserProductData">
+    <Key>
+      <PropertyRef Name="PID" />
+    </Key>
+    <Property Name="PID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ProductName" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="Price" Type="Int64" />
+    <Property Name="Quantity" Type="Int32" />
+    <Property Name="PhoneNumber" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="CreditCardNumber" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="PinCode" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="Docmuent" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="ProID" Type="Int32" />
+    <Property Name="SignInfk" Type="Int32" />
+    <NavigationProperty Name="Product" Relationship="Self.FK__UserProdu__ProID__33D4B598" FromRole="UserProductData" ToRole="Product" />
+    <NavigationProperty Name="SignUp" Relationship="Self.FK__UserProdu__SignI__34C8D9D1" FromRole="UserProductData" ToRole="SignUp" />
+  </EntityType>
+  <EntityType Name="UserRole">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Roles" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="SignUps" Relationship="Self.FK__SignUp__Roles_Fk__31EC6D26" FromRole="UserRoles" ToRole="SignUp" />
+  </EntityType>
+  <Association Name="FK__Product__Categor__300424B4">
+    <End Role="Category" Type="Self.Category" Multiplicity="0..1" />
+    <End Role="Product" Type="Self.Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Category">
+        <PropertyRef Name="CategoryId" />
+      </Principal>
+      <Dependent Role="Product">
+        <PropertyRef Name="Category_FK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__SignUp__Country___32E0915F">
+    <End Role="Country" Type="Self.Country" Multiplicity="0..1" />
+    <End Role="SignUp" Type="Self.SignUp" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Country">
+        <PropertyRef Name="CID" />
+      </Principal>
+      <Dependent Role="SignUp">
+        <PropertyRef Name="Country_Fk" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Product__SignInf__30F848ED">
+    <End Role="SignUp" Type="Self.SignUp" Multiplicity="0..1" />
+    <End Role="Product" Type="Self.Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SignUp">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Product">
+        <PropertyRef Name="SignInfk" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__UserProdu__ProID__33D4B598">
+    <End Role="Product" Type="Self.Product" Multiplicity="0..1" />
+    <End Role="UserProductData" Type="Self.UserProductData" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="ProductId" />
+      </Principal>
+      <Dependent Role="UserProductData">
+        <PropertyRef Name="ProID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__SignUp__Roles_Fk__31EC6D26">
+    <End Role="UserRoles" Type="Self.UserRole" Multiplicity="0..1" />
+    <End Role="SignUp" Type="Self.SignUp" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserRoles">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="SignUp">
+        <PropertyRef Name="Roles_Fk" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__UserProdu__SignI__34C8D9D1">
+    <End Role="SignUp" Type="Self.SignUp" Multiplicity="0..1" />
+    <End Role="UserProductData" Type="Self.UserProductData" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SignUp">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="UserProductData">
+        <PropertyRef Name="SignInfk" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="PharmacyEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Categories" EntityType="Self.Category" />
+    <EntitySet Name="ContectUs" EntityType="Self.ContectU" />
+    <EntitySet Name="Countries" EntityType="Self.Country" />
+    <EntitySet Name="Products" EntityType="Self.Product" />
+    <EntitySet Name="Resumes" EntityType="Self.Resume" />
+    <EntitySet Name="SignUps" EntityType="Self.SignUp" />
+    <EntitySet Name="UserProductDatas" EntityType="Self.UserProductData" />
+    <EntitySet Name="UserRoles" EntityType="Self.UserRole" />
+    <AssociationSet Name="FK__Product__Categor__300424B4" Association="Self.FK__Product__Categor__300424B4">
+      <End Role="Category" EntitySet="Categories" />
+      <End Role="Product" EntitySet="Products" />
+    </AssociationSet>
+    <AssociationSet Name="FK__SignUp__Country___32E0915F" Association="Self.FK__SignUp__Country___32E0915F">
+      <End Role="Country" EntitySet="Countries" />
+      <End Role="SignUp" EntitySet="SignUps" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Product__SignInf__30F848ED" Association="Self.FK__Product__SignInf__30F848ED">
+      <End Role="SignUp" EntitySet="SignUps" />
+      <End Role="Product" EntitySet="Products" />
+    </AssociationSet>
+    <AssociationSet Name="FK__UserProdu__ProID__33D4B598" Association="Self.FK__UserProdu__ProID__33D4B598">
+      <End Role="Product" EntitySet="Products" />
+      <End Role="UserProductData" EntitySet="UserProductDatas" />
+    </AssociationSet>
+    <AssociationSet Name="FK__SignUp__Roles_Fk__31EC6D26" Association="Self.FK__SignUp__Roles_Fk__31EC6D26">
+      <End Role="UserRoles" EntitySet="UserRoles" />
+      <End Role="SignUp" EntitySet="SignUps" />
+    </AssociationSet>
+    <AssociationSet Name="FK__UserProdu__SignI__34C8D9D1" Association="Self.FK__UserProdu__SignI__34C8D9D1">
+      <End Role="SignUp" EntitySet="SignUps" />
+      <End Role="UserProductData" EntitySet="UserProductDatas" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Resume_SignUp" Association="PharmacyModel.FK_Resume_SignUp">
+      <End Role="SignUp" EntitySet="SignUps" />
+      <End Role="Resume" EntitySet="Resumes" />
+    </AssociationSet>
+  </EntityContainer>
+  <Association Name="FK_Resume_SignUp">
+    <End Type="PharmacyModel.SignUp" Role="SignUp" Multiplicity="0..1" />
+    <End Type="PharmacyModel.Resume" Role="Resume" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SignUp">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Resume">
+        <PropertyRef Name="SignIn_Fk" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

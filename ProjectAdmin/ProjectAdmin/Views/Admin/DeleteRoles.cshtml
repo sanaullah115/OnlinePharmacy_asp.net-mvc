@@ -1,0 +1,59 @@
+﻿@model ProjectAdmin.Models.SignUp
+
+@{
+    ViewBag.Title = "EditUSersRole";
+}
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            @using (Html.BeginForm("DeleteRoles","Admin",FormMethod.Post))
+            {
+                @Html.AntiForgeryToken()
+
+            <div class="form-horizontal mt-5">
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                @Html.HiddenFor(model => model.Id)
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Username, htmlAttributes: new { @class = "control-label col-md-2" });
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(model => model.Username, new { @class = "form-control", @Value = ViewBag.DeleteRoles.Username, disabled = "disabled" })
+                        @Html.ValidationMessageFor(model => model.Username, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(model => model.Email, new { @class = "form-control", @Value = ViewBag.DeleteRoles.Email, disabled = "disabled" })
+                        @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Roles_Fk, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                       <input  type="text" name="Roles_Fk" id="roles" class="form-control" value="@ViewBag.DeleteRoles.UserRole.Roles" disabled/> 
+                        @Html.ValidationMessageFor(model => model.Roles_Fk, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" value="Delete Role" class="btn btn-info" onclick="myFunction()"/>
+                    </div>
+                </div>
+            </div>
+            }
+        </div>
+    </div>
+</div>
+
+<script>
+    function myFunction() {
+        document.getElementById("roles").value = "";
+    }
+
+</script>

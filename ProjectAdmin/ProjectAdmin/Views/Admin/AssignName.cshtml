@@ -1,0 +1,59 @@
+﻿@model IEnumerable<ProjectAdmin.Models.SignUp>
+
+@Html.Raw(TempData["DeleteRole"]);
+<!-- Basic table card start -->
+<div class="card">
+    <div class="card-header">
+        <h5>Assign Roles</h5>
+        <span><code>List</code> of All Users</span>
+        <div class="card-header-right">
+            <ul class="list-unstyled card-option">
+                <li><i class="fa fa fa-wrench open-card-option"></i></li>
+                <li><i class="fa fa-window-maximize full-card"></i></li>
+                <li><i class="fa fa-minus minimize-card"></i></li>
+                <li><i class="fa fa-refresh reload-card"></i></li>
+                <li><i class="fa fa-trash close-card"></i></li>
+            </ul>
+        </div>
+    </div>
+    <div class="card-block table-border-style">
+        <div class="table-responsive">
+            <table class="table table-striped table-hover table-bordered" id="myTable">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>UserName</th>
+                        <th>Email</th>
+                        <th>Roles</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                    <tr>
+                        <td scope="row">@item.Id</td>
+                        <td>@item.Username</td>
+                        <td>@item.Email</td>
+            
+                        @if (@item.Roles_Fk == null)
+                        {
+                            <td>No Role Assign</td>
+                        }
+                        else
+                {
+                    <td>@item.UserRole.Roles</td>
+                }
+                        <td>
+                            <a class="btn btn-primary btn-sm" href="@Url.Action("EditUSersRole", "Admin", new {id=item.Id  })"><i class="fa fa-pencil fa-lg"></i></a>
+                            <a class="btn btn-danger btn-sm" href="@Url.Action("DeleteRoles", "Admin", new { id=item.Id})"><i class="fa fa-trash fa-lg"></i></a>
+                        </td>
+                    </tr>
+                    }
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+<!-- Basic table card end -->

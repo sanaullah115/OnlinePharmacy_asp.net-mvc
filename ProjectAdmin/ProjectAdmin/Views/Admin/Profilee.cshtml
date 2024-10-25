@@ -1,0 +1,160 @@
+﻿@using ProjectAdmin.Models
+@{
+    var CLientData = ViewBag.Data as SignUp;
+}
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+
+                <div class="card-body">
+                    <div class="card-title mb-4">
+                        <div class="d-flex justify-content-start">
+                            <div class="image-container">    
+                                    <img src="~/ProjectImages/@CLientData.ImagePath" id="imgProfile" style="width: 150px; height: 150px" class="img-thumbnail" />
+                            </div>
+                            <div class="userData ml-3">
+                                <h2 class="d-block" style="font-size: 1.5rem; font-weight: bold">@CLientData.Username <a href="@Url.Action("EditProfile", "Admin")">Edit</a></h2>
+                                <h6 class="d-block">Terms And Conditions : @CLientData.TermsConditions</h6>
+                                <h6 class="d-block">Newsletter Conition : @CLientData.Newsletter</h6>
+                                <h6 class="d-block">Role : @CLientData.UserRole.Roles</h6>
+                            </div>
+                            <div class="ml-auto">
+                                <input type="button" class="btn btn-primary d-none" id="btnDiscard" value="Discard Changes" />
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-12">
+                            <ul class="nav nav-tabs mb-4" id="myTab" role="tablist">
+                                <li class="nav-item">
+                                    <a class="nav-link active" id="basicInfo-tab" data-toggle="tab" href="#basicInfo" role="tab" aria-controls="basicInfo" aria-selected="true">Basic Info</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" id="connectedServices-tab" data-toggle="tab" href="#connectedServices" role="tab" aria-controls="connectedServices" aria-selected="false">Connected Services</a>
+                                </li>
+                            </ul>
+                            <div class="tab-content ml-1" id="myTabContent">
+                                <div class="tab-pane fade show active" id="basicInfo" role="tabpanel" aria-labelledby="basicInfo-tab">
+
+
+                                    <div class="row">
+                                        <div class="col-sm-3 col-md-2 col-5">
+                                            <label style="font-weight:bold;">First Name</label>
+                                        </div>
+                                        <div class="col-md-8 col-6">
+                                            @if (CLientData.Fname == null)
+                                            {
+                                                <span>-</span>
+                                            }
+                                            else
+                                            {
+                                                @CLientData.Fname
+                                            }
+                                        </div>
+                                    </div>
+                                    <hr />
+                                    <div class="row">
+                                        <div class="col-sm-3 col-md-2 col-5">
+                                            <label style="font-weight:bold;">Last Name</label>
+                                        </div>
+                                        <div class="col-md-8 col-6">
+                                            @if (CLientData.Lname == null)
+                                            {
+                                                <span>-</span>
+                                            }
+                                            else
+                                            {
+                                                @CLientData.Lname
+                                            }
+
+                                        </div>
+                                    </div>
+                                    <hr />
+                                    <div class="row">
+                                        <div class="col-sm-3 col-md-2 col-5">
+                                            <label style="font-weight:bold;">Gender</label>
+                                        </div>
+                                        <div class="col-md-8 col-6">
+                                            @CLientData.Gender
+                                        </div>
+                                    </div>
+                                    <hr />
+
+
+                                    <div class="row">
+                                        <div class="col-sm-3 col-md-2 col-5">
+                                            <label style="font-weight:bold;">Email</label>
+                                        </div>
+                                        <div class="col-md-8 col-6">
+                                            @if (CLientData.Email == null)
+                                            {
+                                                <span>-</span>
+                                            }
+                                            else
+                                            {
+                                                @CLientData.Email
+                                            }
+
+                                        </div>
+                                    </div>
+                                    <hr />
+                                    <div class="row">
+                                        <div class="col-sm-3 col-md-2 col-5">
+                                            <label style="font-weight:bold;">Password</label>
+                                        </div>
+                                        <div class="col-md-8 col-6">
+                                            @if (CLientData.Password == null)
+                                            {
+                                                <span>-</span>
+                                            }
+                                            else
+                                            {
+                                                @CLientData.Password
+                                            }
+
+                                        </div>
+                                    </div>
+                                    <hr />
+                                    <div class="row">
+                                        <div class="col-sm-3 col-md-2 col-5">
+                                            <label style="font-weight:bold;">Username</label>
+                                        </div>
+                                        <div class="col-md-8 col-6">
+                                            @CLientData.Username
+                                        </div>
+                                    </div>
+                                    <hr />
+                                    <div class="row">
+                                        <div class="col-sm-3 col-md-2 col-5">
+                                            <label style="font-weight:bold;">Country</label>
+                                        </div>
+                                        <div class="col-md-8 col-6">
+                                            @if (CLientData.Country_Fk == null)
+                                            {
+                                                <span>-</span>
+                                            }
+                                            else
+                                            {
+                                                @CLientData.Country.Country1
+                                            }
+                                        </div>
+                                    </div>
+                                    <hr />
+                                </div>
+                                <div class="tab-pane fade" id="connectedServices" role="tabpanel" aria-labelledby="ConnectedServices-tab">
+                                    Facebook, Google, Twitter Account that are connected to this account
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+

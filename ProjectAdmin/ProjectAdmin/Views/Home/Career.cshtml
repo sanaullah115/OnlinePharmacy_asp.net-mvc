@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "Career";
+    Layout = "~/Views/Shared/Home_Layout.cshtml";
+}
+
+<div class="container mt-4">
+    <div class="row shadow" style=" background-color: #abb0b3 !important;">
+        <div class="col-md-12">
+            <h4 class="text-center p-2">Career Service (Upload Your Resume Here)</h4>
+        </div>
+    </div>
+    <div class="row">
+        <form action="Career" method="post" enctype="multipart/form-data">
+            <div class="col-md-12">
+                <div class="form-group">
+                    <label for="exampleFormControlFile1">Select Resume</label>
+                    <input type="file" class="form-control-file" id="exampleFormControlFile1" name="file" required>
+                </div>
+                <input type="submit" value="Upload Resume" class="btn btn-secondary mb-3" />
+            </div>
+            
+        </form>
+        @Html.Raw(TempData["Career"])
+    </div>
+</div>

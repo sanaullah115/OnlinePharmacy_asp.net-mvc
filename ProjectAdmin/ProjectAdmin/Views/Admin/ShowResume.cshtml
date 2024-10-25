@@ -1,0 +1,66 @@
+﻿
+@{
+    ViewBag.Title = "ShowResume";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<div class="card">
+    <div class="card-header">
+        <h5>Assign Roles</h5>
+        <span><code>Show</code> of All Resumes Data</span>
+        <div class="card-header-right">
+            <ul class="list-unstyled card-option">
+                <li><i class="fa fa fa-wrench open-card-option"></i></li>
+                <li><i class="fa fa-window-maximize full-card"></i></li>
+                <li><i class="fa fa-minus minimize-card"></i></li>
+                <li><i class="fa fa-refresh reload-card"></i></li>
+                <li><i class="fa fa-trash close-card"></i></li>
+            </ul>
+        </div>
+    </div>
+    <div class="card-block table-border-style">
+        <div class="table-responsive">
+            <table class="table table-striped table-hover table-bordered" id="myTable">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Uploaded Date</th>
+                        <th>Name</th>
+                        <th>Email</th>
+                        <th>Resume Download</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in ViewBag.addiytheKing)
+                    {
+                    <tr>
+                        <td scope="row">@item.ResumeId</td>
+                        <td>@item.UploadedData</td>
+                        @if(item.SignUp.Username == null)
+                        {
+                            <td>-</td>
+                        }
+                        else
+                        {
+                            <td>@item.SignUp.Username</td>
+                        }
+                        @if(item.SignUp.Email== null)
+                        {
+                            <td>-</td>
+                        }
+                        else
+                        {
+                            <td>@item.SignUp.Email</td>
+                        }
+                        <td><a href="~/ProjectImages/@item.ResumeDocumentPath" target="_blank"><i class="fa fa-download" aria-hidden="true"></i></a></td>
+                    </tr>
+                    }
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+

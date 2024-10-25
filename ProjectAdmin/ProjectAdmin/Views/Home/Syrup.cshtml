@@ -1,0 +1,83 @@
+﻿
+@{
+    ViewBag.Title = "ShowMug";
+    Layout = "~/Views/Shared/Home_Layout.cshtml";
+}
+
+<section class="owl-carousel product-area section_gap" style="margin-top:70px;">
+    <div class="single-product-slider">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-6 text-center">
+                    <div class="section-title">
+                        <h1>Latest Syrup</h1>
+                        <p>
+                            Syrups are a concentrated solution of a sugar mixed in water or other other aqueous liquid.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+
+                @foreach (var item in ViewBag.Data2)
+                {
+                    if (item.Quantity > 0)
+                    {
+                        <div class="col-lg-3 col-md-6">
+                            <div class="single-product">
+                                <img class="img-fluid" src="~/ProjectImages/@item.ProductImage" alt="">
+                                <div class="product-details" style="min-height: 211px !important;">
+                                    <h5>@item.ProductName</h5>
+                                    <p style=" white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+                                        @item.Description
+                                    </p>
+                                    <div class="price">
+                                        <h6>PKR,@item.Price</h6>
+                                        <br />
+                                        <h6 class="badge badge-secondary">Category : @item.Category.CategoryName</h6>
+                                    </div>
+                                    <div class="prd-bottom">
+                                        @using (Html.BeginForm("AddToCart", "Home", new { productId = item.ProductId }, FormMethod.Post))
+                                        {
+                                            <button type="submit" class="btn" style="background: #adb2b4 !important;">Add To Cart</button>
+
+                                        }
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+
+                    else
+                    {
+                        <div class="col-lg-3 col-md-6">
+                            <div class="single-product">
+                                <img class="img-fluid" src="~/ProjectImages/@item.ProductImage" alt="">
+                                <div class="product-details">
+                                    <div>
+                                        <h6>
+                                            @item.Description
+                                        </h6>
+                                    </div>
+                                    <div class="price">
+                                        <h6>PKR,@item.Price</h6>
+                                        <h6 class="l-through">@item.Category.CategoryName</h6>
+                                    </div>
+                                    <div class="price">
+                                        <h6 class="bg-danger text-white">Out Of Stock</h6>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+
+                }
+
+
+            </div>
+        </div>
+    </div>
+</section>
+
+

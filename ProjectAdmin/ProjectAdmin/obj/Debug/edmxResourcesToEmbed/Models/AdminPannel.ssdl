@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AdminPannelModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="AddPackages">
+    <Key>
+      <PropertyRef Name="AddPackagesID" />
+    </Key>
+    <Property Name="AddPackagesID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AddPackagesName" Type="varchar(max)" />
+    <Property Name="AddPackagesRecievedAmount" Type="varchar(max)" />
+    <Property Name="AddPackagesAmountCharged" Type="varchar(max)" />
+    <Property Name="AddPackagesPackageNameType" Type="varchar(max)" />
+    <Property Name="Id_FK" Type="int" />
+  </EntityType>
+  <EntityType Name="checkoutdetail">
+    <Key>
+      <PropertyRef Name="Checkoutid" />
+    </Key>
+    <Property Name="Checkoutid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PhoneNumber" Type="bigint" />
+    <Property Name="CreditCardNumber" Type="bigint" />
+    <Property Name="Country" Type="varchar(max)" />
+    <Property Name="TotalBill" Type="bigint" />
+    <Property Name="DateofPurchasing" Type="varchar" MaxLength="30" />
+    <Property Name="PackagesID_FK" Type="int" />
+    <Property Name="Id_FK" Type="int" />
+  </EntityType>
+  <EntityType Name="Country">
+    <Key>
+      <PropertyRef Name="CID" />
+    </Key>
+    <Property Name="CID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Country" Type="varchar(max)" />
+  </EntityType>
+  <EntityType Name="dbContact">
+    <Key>
+      <PropertyRef Name="ContactID" />
+    </Key>
+    <Property Name="ContactID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="50" />
+    <Property Name="Email" Type="varchar" MaxLength="50" />
+    <Property Name="Subject" Type="varchar" MaxLength="70" />
+    <Property Name="Message" Type="varchar(max)" />
+  </EntityType>
+  <EntityType Name="Postpaidbill">
+    <Key>
+      <PropertyRef Name="PostPaidId" />
+    </Key>
+    <Property Name="PostPaidId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Tittle" Type="varchar" MaxLength="32" />
+    <Property Name="InternetData" Type="varchar" MaxLength="32" />
+    <Property Name="NetworkToNetworkMinutes" Type="varchar" MaxLength="32" />
+    <Property Name="OtherNetworkMinutes" Type="varchar" MaxLength="32" />
+    <Property Name="SMS" Type="varchar" MaxLength="32" />
+    <Property Name="Price" Type="bigint" />
+    <Property Name="Id_FK" Type="int" />
+  </EntityType>
+  <EntityType Name="SignUp">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Username" Type="varchar" MaxLength="30" />
+    <Property Name="Email" Type="varchar" MaxLength="30" />
+    <Property Name="Fname" Type="varchar" MaxLength="30" />
+    <Property Name="Lname" Type="varchar" MaxLength="30" />
+    <Property Name="Gender" Type="varchar" MaxLength="30" />
+    <Property Name="Password" Type="varchar" MaxLength="30" />
+    <Property Name="ConfirmPassword" Type="varchar" MaxLength="30" />
+    <Property Name="TermsConditions" Type="varchar" MaxLength="30" />
+    <Property Name="Newsletter" Type="varchar" MaxLength="30" />
+    <Property Name="ImagePath" Type="varchar(max)" />
+    <Property Name="CreatedAt" Type="varchar" MaxLength="30" />
+    <Property Name="UpdatedBy" Type="varchar" MaxLength="30" />
+    <Property Name="Status" Type="varchar" MaxLength="30" />
+    <Property Name="Roles_Fk" Type="int" />
+    <Property Name="Country_Fk" Type="int" />
+  </EntityType>
+  <EntityType Name="UserRoles">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Roles" Type="varchar" MaxLength="30" />
+  </EntityType>
+  <Association Name="FK__AddPackag__Id_FK__628FA481">
+    <End Role="SignUp" Type="Self.SignUp" Multiplicity="0..1" />
+    <End Role="AddPackages" Type="Self.AddPackages" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SignUp">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="AddPackages">
+        <PropertyRef Name="Id_FK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__checkoutd__Id_FK__70DDC3D8">
+    <End Role="SignUp" Type="Self.SignUp" Multiplicity="0..1" />
+    <End Role="checkoutdetail" Type="Self.checkoutdetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SignUp">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="checkoutdetail">
+        <PropertyRef Name="Id_FK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__checkoutd__Packa__6FE99F9F">
+    <End Role="AddPackages" Type="Self.AddPackages" Multiplicity="0..1" />
+    <End Role="checkoutdetail" Type="Self.checkoutdetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AddPackages">
+        <PropertyRef Name="AddPackagesID" />
+      </Principal>
+      <Dependent Role="checkoutdetail">
+        <PropertyRef Name="PackagesID_FK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Postpaidb__Id_FK__5CD6CB2B">
+    <End Role="SignUp" Type="Self.SignUp" Multiplicity="0..1" />
+    <End Role="Postpaidbill" Type="Self.Postpaidbill" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SignUp">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Postpaidbill">
+        <PropertyRef Name="Id_FK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__SignUp__Country___5812160E">
+    <End Role="Country" Type="Self.Country" Multiplicity="0..1" />
+    <End Role="SignUp" Type="Self.SignUp" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Country">
+        <PropertyRef Name="CID" />
+      </Principal>
+      <Dependent Role="SignUp">
+        <PropertyRef Name="Country_Fk" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__SignUp__Roles_Fk__571DF1D5">
+    <End Role="UserRoles" Type="Self.UserRoles" Multiplicity="0..1" />
+    <End Role="SignUp" Type="Self.SignUp" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserRoles">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="SignUp">
+        <PropertyRef Name="Roles_Fk" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="AdminPannelModelStoreContainer">
+    <EntitySet Name="AddPackages" EntityType="Self.AddPackages" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="checkoutdetail" EntityType="Self.checkoutdetail" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Country" EntityType="Self.Country" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="dbContact" EntityType="Self.dbContact" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Postpaidbill" EntityType="Self.Postpaidbill" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SignUp" EntityType="Self.SignUp" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="UserRoles" EntityType="Self.UserRoles" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__AddPackag__Id_FK__628FA481" Association="Self.FK__AddPackag__Id_FK__628FA481">
+      <End Role="SignUp" EntitySet="SignUp" />
+      <End Role="AddPackages" EntitySet="AddPackages" />
+    </AssociationSet>
+    <AssociationSet Name="FK__checkoutd__Id_FK__70DDC3D8" Association="Self.FK__checkoutd__Id_FK__70DDC3D8">
+      <End Role="SignUp" EntitySet="SignUp" />
+      <End Role="checkoutdetail" EntitySet="checkoutdetail" />
+    </AssociationSet>
+    <AssociationSet Name="FK__checkoutd__Packa__6FE99F9F" Association="Self.FK__checkoutd__Packa__6FE99F9F">
+      <End Role="AddPackages" EntitySet="AddPackages" />
+      <End Role="checkoutdetail" EntitySet="checkoutdetail" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Postpaidb__Id_FK__5CD6CB2B" Association="Self.FK__Postpaidb__Id_FK__5CD6CB2B">
+      <End Role="SignUp" EntitySet="SignUp" />
+      <End Role="Postpaidbill" EntitySet="Postpaidbill" />
+    </AssociationSet>
+    <AssociationSet Name="FK__SignUp__Country___5812160E" Association="Self.FK__SignUp__Country___5812160E">
+      <End Role="Country" EntitySet="Country" />
+      <End Role="SignUp" EntitySet="SignUp" />
+    </AssociationSet>
+    <AssociationSet Name="FK__SignUp__Roles_Fk__571DF1D5" Association="Self.FK__SignUp__Roles_Fk__571DF1D5">
+      <End Role="UserRoles" EntitySet="UserRoles" />
+      <End Role="SignUp" EntitySet="SignUp" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

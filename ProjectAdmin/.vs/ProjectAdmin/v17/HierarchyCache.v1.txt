@@ -1,0 +1,1638 @@
+﻿++Solution 'ProjectAdmin' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:ProjectAdmin.sln
+++ProjectAdmin
+i:{00000000-0000-0000-0000-000000000000}:ProjectAdmin
+++Properties
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\properties\
+++References
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:
+++AboutTmp
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\abouttmp\
+++css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\abouttmp\css\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\css\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\css\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\css\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\css\animate.css\css\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\css\bootstrap\css\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\css\morris.js\css\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\css\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\icofont\css\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\waves\css\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\fontawesome-free-5.0.1\css\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\dashboard\amchart\css\
+++image
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\abouttmp\image\
+++App_Data
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\app_data\
+++App_Start
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\app_start\
+++assets
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\
+++Controllers
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\controllers\
+++AdminController.cs
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\controllers\admincontroller.cs
+++HomeController.cs
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\controllers\homecontroller.cs
+++home asset
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\
+++images
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\images\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\dashboard\amchart\js\images\
+++Models
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\models\
+++AdminAssignRoles.cs
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\models\adminassignroles.cs
+++Item.cs
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\models\item.cs
+++PhotoPrinting.edmx
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\models\photoprinting.edmx
+++ProductAssets
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\
+++ProjectImages
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\projectimages\
+++Views
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\views\
+++Admin
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\views\admin\
+++AddNewPackage.cshtml
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\views\admin\addnewpackage.cshtml
+++AddProduct.cshtml
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\views\admin\addproduct.cshtml
+++AddRoles.cshtml
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\views\admin\addroles.cshtml
+++AssignName.cshtml
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\views\admin\assignname.cshtml
+++DeleteRoles.cshtml
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\views\admin\deleteroles.cshtml
+++EditProfile.cshtml
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\views\admin\editprofile.cshtml
+++EditUSersRole.cshtml
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\views\admin\editusersrole.cshtml
+++Index.cshtml
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\views\admin\index.cshtml
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\views\home\index.cshtml
+++Login.cshtml
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\views\admin\login.cshtml
+++Postpaid.cshtml
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\views\admin\postpaid.cshtml
+++Profile.cshtml
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\views\admin\profile.cshtml
+++Profilee.cshtml
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\views\admin\profilee.cshtml
+++SendEmail.cshtml
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\views\admin\sendemail.cshtml
+++Signup.cshtml
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\views\admin\signup.cshtml
+++Home
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\views\home\
+++About.cshtml
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\views\home\about.cshtml
+++Checkout.cshtml
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\views\home\checkout.cshtml
+++CheckoutDetails.cshtml
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\views\home\checkoutdetails.cshtml
+++Contact.cshtml
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\views\home\contact.cshtml
+++ShowCards.cshtml
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\views\home\showcards.cshtml
+++ShowCushion.cshtml
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\views\home\showcushion.cshtml
+++ShowMug.cshtml
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\views\home\showmug.cshtml
+++ShowShirts.cshtml
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\views\home\showshirts.cshtml
+++Shared
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\views\shared\
+++_Layout.cshtml
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\views\shared\_layout.cshtml
+++Home_Layout.cshtml
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\views\shared\home_layout.cshtml
+++stylr_layout.cshtml
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\views\shared\stylr_layout.cshtml
+++_ViewStart.cshtml
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\views\_viewstart.cshtml
+++web.config
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\views\web.config
+++Global.asax
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\global.asax
+++packages.config
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\packages.config
+++Web.config
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\web.config
+++WebRoleProvider.cs
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\webroleprovider.cs
+++AssemblyInfo.cs
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\properties\assemblyinfo.cs
+++BouncyCastle.Crypto
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:
+++EntityFramework
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:
+++EntityFramework.SqlServer
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:
+++Microsoft.CSharp
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:
+++Microsoft.Web.Infrastructure
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:
+++System
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:
+++System.ComponentModel.DataAnnotations
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:
+++System.Configuration
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:
+++System.Core
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:
+++System.Data
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:
+++System.Data.DataSetExtensions
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:
+++System.Drawing
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:
+++System.EnterpriseServices
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:
+++System.Numerics
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:
+++System.Runtime.Serialization
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:
+++System.Security
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:
+++System.Web
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:
+++System.Web.ApplicationServices
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:
+++System.Web.DynamicData
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:
+++System.Web.Entity
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:
+++System.Web.Extensions
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:
+++System.Web.Helpers
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:
+++System.Web.Mvc
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:
+++System.Web.Razor
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:
+++System.Web.Services
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:
+++System.Web.Webpages
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:
+++System.Web.Webpages.Deployment
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:
+++System.Web.Webpages.Razor
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:
+++System.Xml
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:
+++System.Xml.Linq
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:
+++style.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\abouttmp\css\style.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\css\style.css
+++img one.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\abouttmp\image\img one.jpg
+++RouteConfig.cs
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\app_start\routeconfig.cs
+++icon
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\
+++js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\js\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\js\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\js\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\js\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\js\bootstrap\js\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\waves\js\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\dashboard\amchart\js\
+++pages
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\
+++banner.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\banner.jpg
+++HonorableDecentLarva-size_restricted.gif
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\honorabledecentlarva-size_restricted.gif
+++plugins
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\
+++styles
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\styles\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\styles\
+++197-1976609_available-paper-stock-visiting-card (1).png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\images\197-1976609_available-paper-stock-visiting-card (1).png
+++DesignStudioGraphic.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\images\designstudiographic.png
+++facebook-image.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\images\facebook-image.png
+++sort_asc.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\images\sort_asc.png
+++sort_asc_disabled.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\images\sort_asc_disabled.png
+++sort_both.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\images\sort_both.png
+++sort_desc.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\images\sort_desc.png
+++sort_desc_disabled.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\images\sort_desc_disabled.png
+++PhotoPrinting.Context.tt
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\models\photoprinting.context.tt
+++PhotoPrinting.Designer.cs
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\models\photoprinting.designer.cs
+++PhotoPrinting.edmx.diagram
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\models\photoprinting.edmx.diagram
+++PhotoPrinting.tt
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\models\photoprinting.tt
+++fonts
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\fonts\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\fonts\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\fonts\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\icofont\fonts\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\themify-icons\fonts\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\slick-1.8.0\fonts\
+++img
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\img\
+++Karma Shop-doc
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\
+++scss
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\scss\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\scss\
+++Global.asax.cs
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\global.asax.cs
+++Web.Debug.config
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\web.debug.config
+++Web.Release.config
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\web.release.config
+++animate.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\css\animate.css\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\owlcarousel2-2.2.1\animate.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\css\animate.css\css\animate.css
+++bootstrap
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\css\bootstrap\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\js\bootstrap\
+++chartist
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\css\chartist\
+++morris.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\css\morris.js\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\js\morris.js\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\js\morris.js\morris.js
+++dataTables.bootstrap4.min.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\css\datatables.bootstrap4.min.css
+++font-awesome.min.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\css\font-awesome.min.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\css\font-awesome.min.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\css\font-awesome.min.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\css\font-awesome.min.css
+++ionicons.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\css\ionicons.css
+++jquery.dataTables.min.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\css\jquery.datatables.min.css
+++jquery.mCustomScrollbar.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\css\jquery.mcustomscrollbar.css
+++font-awesome
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\
+++icofont
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\icofont\
+++themify-icons
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\themify-icons\
+++auth
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\auth\
+++blog
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\blog\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\
+++browser
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\browser\
+++mega-menu
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\mega-menu\
+++tooltip
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\tooltip\
+++widget
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\widget\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\widget\
+++avatar-1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\avatar-1.jpg
+++avatar-2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\avatar-2.jpg
+++avatar-3.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\avatar-3.jpg
+++avatar-4.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\avatar-4.jpg
+++avatar-5.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\avatar-5.jpg
+++avatar-blank.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\avatar-blank.jpg
+++breadcrumb-bg.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\breadcrumb-bg.jpg
+++details_close.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\details_close.png
+++details_open.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\details_open.png
+++faq_man.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\faq_man.png
+++favicon.ico
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\favicon.ico
+++logo-blue.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\logo-blue.png
+++logo-compact.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\logo-compact.png
+++logo.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\logo.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\logo.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\auth\logo.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\img\logo.png
+++mCSB_buttons.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\mcsb_buttons.png
+++select-arrow.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\select-arrow.png
+++Thumbs.db
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\thumbs.db
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\auth\thumbs.db
+++user-bg.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\user-bg.jpg
+++chart.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\js\chart.js\
+++jquery
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\js\jquery\
+++jquery-slimscroll
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\js\jquery-slimscroll\
+++jquery-ui
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\js\jquery-ui\
+++modernizr
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\js\modernizr\
+++popper.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\js\popper.js\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\styles\bootstrap4\popper.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\js\vendor\popper.js
+++raphael
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\js\raphael\
+++bootstrap-growl.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\js\bootstrap-growl.min.js
+++common-pages.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\js\common-pages.js
+++dataTables.bootstrap4.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\js\datatables.bootstrap4.js
+++jquery.dataTables.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\js\jquery.datatables.min.js
+++jquery.mCustomScrollbar.concat.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\js\jquery.mcustomscrollbar.concat.min.js
+++jquery.mousewheel.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\js\jquery.mousewheel.min.js
+++morris-custom-chart.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\js\morris-custom-chart.js
+++pcoded.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\js\pcoded.min.js
+++script.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\js\script.js
+++script.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\js\script.min.js
+++SmoothScroll.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\js\smoothscroll.js
+++vertical-layout.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\js\vertical-layout.min.js
+++accordion
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\accordion\
+++dashboard
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\dashboard\
+++google-maps
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\google-maps\
+++notification
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\notification\
+++todo
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\todo\
+++waves
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\waves\
+++icon-modal.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\icon-modal.js
+++adv_1.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\adv_1.png
+++adv_2.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\adv_2.png
+++adv_3.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\adv_3.png
+++banner_2_background.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\banner_2_background.jpg
+++banner_2_product.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\banner_2_product.png
+++banner_background.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\banner_background.jpg
+++banner_product.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\banner_product.png
+++best_1.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\best_1.png
+++best_2.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\best_2.png
+++best_3.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\best_3.png
+++best_4.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\best_4.png
+++best_5.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\best_5.png
+++best_6.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\best_6.png
+++blog_1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\blog_1.jpg
+++blog_2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\blog_2.jpg
+++blog_3.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\blog_3.jpg
+++blog_4.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\blog_4.jpg
+++blog_5.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\blog_5.jpg
+++blog_6.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\blog_6.jpg
+++blog_7.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\blog_7.jpg
+++blog_8.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\blog_8.jpg
+++blog_9.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\blog_9.jpg
+++blog_single_background.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\blog_single_background.jpg
+++brands_1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\brands_1.jpg
+++brands_2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\brands_2.jpg
+++brands_3.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\brands_3.jpg
+++brands_4.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\brands_4.jpg
+++brands_5.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\brands_5.jpg
+++brands_6.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\brands_6.jpg
+++brands_7.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\brands_7.jpg
+++brands_8.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\brands_8.jpg
+++cart.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\cart.png
+++char_1.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\char_1.png
+++char_2.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\char_2.png
+++char_3.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\char_3.png
+++char_4.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\char_4.png
+++contact_1.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\contact_1.png
+++contact_2.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\contact_2.png
+++contact_3.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\contact_3.png
+++deals.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\deals.png
+++featured_1.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\featured_1.png
+++featured_2.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\featured_2.png
+++featured_3.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\featured_3.png
+++featured_4.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\featured_4.png
+++featured_5.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\featured_5.png
+++featured_6.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\featured_6.png
+++featured_7.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\featured_7.png
+++featured_8.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\featured_8.png
+++heart.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\heart.png
+++logos_1.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\logos_1.png
+++logos_2.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\logos_2.png
+++logos_3.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\logos_3.png
+++logos_4.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\logos_4.png
+++mail.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\mail.png
+++mail_white.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\mail_white.png
+++marker.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\marker.png
+++new_1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\new_1.jpg
+++new_10.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\new_10.jpg
+++new_2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\new_2.jpg
+++new_3.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\new_3.jpg
+++new_4.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\new_4.jpg
+++new_5.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\new_5.jpg
+++new_6.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\new_6.jpg
+++new_7.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\new_7.jpg
+++new_8.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\new_8.jpg
+++new_9.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\new_9.jpg
+++new_single.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\new_single.png
+++phone.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\phone.png
+++phone_white.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\phone_white.png
+++popular_1.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\popular_1.png
+++popular_2.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\popular_2.png
+++popular_3.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\popular_3.png
+++popular_4.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\popular_4.png
+++popular_5.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\popular_5.png
+++quote.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\quote.png
+++review_1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\review_1.jpg
+++review_2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\review_2.jpg
+++review_3.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\review_3.jpg
+++search.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\search.png
+++send.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\send.png
+++shop_1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\shop_1.jpg
+++shop_2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\shop_2.jpg
+++shop_background.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\shop_background.jpg
+++shopping_cart.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\shopping_cart.jpg
+++single_1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\single_1.jpg
+++single_2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\single_2.jpg
+++single_3.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\single_3.jpg
+++single_4.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\single_4.jpg
+++trends_1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\trends_1.jpg
+++trends_2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\trends_2.jpg
+++trends_3.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\trends_3.jpg
+++trends_background.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\trends_background.jpg
+++user.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\user.png
+++user.svg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\user.svg
+++view_1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\view_1.jpg
+++view_2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\view_2.jpg
+++view_3.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\view_3.jpg
+++view_4.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\view_4.jpg
+++view_5.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\view_5.jpg
+++view_6.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\images\view_6.jpg
+++blog_custom.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\js\blog_custom.js
+++blog_single_custom.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\js\blog_single_custom.js
+++cart_custom.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\js\cart_custom.js
+++contact_custom.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\js\contact_custom.js
+++custom.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\js\custom.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\js\custom.js
+++jquery-3.3.1.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\js\jquery-3.3.1.min.js
+++product_custom.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\js\product_custom.js
+++regular_custom.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\js\regular_custom.js
+++shop_custom.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\js\shop_custom.js
+++easing
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\easing\
+++fontawesome-free-5.0.1
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\fontawesome-free-5.0.1\
+++greensock
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\greensock\
+++Isotope
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\isotope\
+++jquery-ui-1.12.1.custom
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\jquery-ui-1.12.1.custom\
+++OwlCarousel2-2.2.1
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\owlcarousel2-2.2.1\
+++parallax-js-master
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\parallax-js-master\
+++scrollmagic
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\scrollmagic\
+++slick-1.8.0
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\slick-1.8.0\
+++bootstrap4
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\styles\bootstrap4\
+++blog_responsive.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\styles\blog_responsive.css
+++blog_single_responsive.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\styles\blog_single_responsive.css
+++blog_single_styles.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\styles\blog_single_styles.css
+++blog_styles.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\styles\blog_styles.css
+++cart_responsive.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\styles\cart_responsive.css
+++cart_styles.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\styles\cart_styles.css
+++contact_responsive.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\styles\contact_responsive.css
+++contact_styles.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\styles\contact_styles.css
+++main_styles.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\styles\main_styles.css
+++product_responsive.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\styles\product_responsive.css
+++product_styles.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\styles\product_styles.css
+++regular_responsive.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\styles\regular_responsive.css
+++regular_styles.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\styles\regular_styles.css
+++responsive.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\styles\responsive.css
+++shop_responsive.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\styles\shop_responsive.css
+++shop_styles.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\styles\shop_styles.css
+++PhotoPrinting.Context.cs
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\models\photoprinting.context.cs
+++Category.cs
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\models\category.cs
+++ContectU.cs
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\models\contectu.cs
+++Country.cs
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\models\country.cs
+++PhotoPrinting.cs
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\models\photoprinting.cs
+++Product.cs
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\models\product.cs
+++SignUp.cs
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\models\signup.cs
+++UserProductData.cs
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\models\userproductdata.cs
+++UserRole.cs
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\models\userrole.cs
+++.DS_Store
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\css\.ds_store
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\.ds_store
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\js\.ds_store
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\.ds_store
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\scss\.ds_store
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\.ds_store
+++availability-calendar.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\css\availability-calendar.css
+++bootstrap.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\css\bootstrap.css
+++bootstrap.map
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\css\bootstrap.map
+++ion.rangeSlider.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\css\ion.rangeslider.css
+++ion.rangeSlider.skinFlat.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\css\ion.rangeslider.skinflat.css
+++jquerysctipttop.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\css\jquerysctipttop.css
+++linearicons.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\css\linearicons.css
+++magnific-popup.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\css\magnific-popup.css
+++main.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\css\main.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\css\main.css
+++main.css.map
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\css\main.css.map
+++main.map
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\css\main.map
+++nice-select.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\css\nice-select.css
+++nouislider.min.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\css\nouislider.min.css
+++owl.carousel.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\css\owl.carousel.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\owlcarousel2-2.2.1\owl.carousel.css
+++themify-icons.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\css\themify-icons.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\themify-icons\themify-icons.css
+++fontawesome-webfont.eot
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\fonts\fontawesome-webfont.eot
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\fonts\fontawesome-webfont.eot
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\fonts\fontawesome-webfont.eot
+++fontawesome-webfont.svg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\fonts\fontawesome-webfont.svg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\fonts\fontawesome-webfont.svg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\fonts\fontawesome-webfont.svg
+++fontawesome-webfont.ttf
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\fonts\fontawesome-webfont.ttf
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\fonts\fontawesome-webfont.ttf
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\fonts\fontawesome-webfont.ttf
+++fontawesome-webfont.woff
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\fonts\fontawesome-webfont.woff
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\fonts\fontawesome-webfont.woff
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\fonts\fontawesome-webfont.woff
+++fontawesome-webfont.woff2
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\fonts\fontawesome-webfont.woff2
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\fonts\fontawesome-webfont.woff2
+++FontAwesome.otf
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\fonts\fontawesome.otf
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\fonts\fontawesome.otf
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\fonts\fontawesome.otf
+++Linearicons-Free.eot
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\fonts\linearicons-free.eot
+++Linearicons-Free.svg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\fonts\linearicons-free.svg
+++Linearicons-Free.ttf
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\fonts\linearicons-free.ttf
+++Linearicons-Free.woff
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\fonts\linearicons-free.woff
+++Linearicons-Free.woff2
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\fonts\linearicons-free.woff2
+++themify.eot
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\fonts\themify.eot
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\themify-icons\fonts\themify.eot
+++themify.svg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\fonts\themify.svg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\themify-icons\fonts\themify.svg
+++themify.ttf
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\fonts\themify.ttf
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\themify-icons\fonts\themify.ttf
+++themify.woff
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\fonts\themify.woff
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\themify-icons\fonts\themify.woff
+++banner
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\banner\
+++brand
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\brand\
+++category
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\category\
+++elements
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\elements\
+++features
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\features\
+++organic-food
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\
+++product
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\product\
+++sd
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\sd\
+++cart.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\cart.jpg
+++exclusive.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\exclusive.jpg
+++fav.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\fav.png
+++i1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\i1.jpg
+++i2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\i2.jpg
+++i3.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\i3.jpg
+++i4.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\i4.jpg
+++i5.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\i5.jpg
+++i6.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\i6.jpg
+++i7.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\i7.jpg
+++i8.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\i8.jpg
+++l1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\l1.jpg
+++l2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\l2.jpg
+++l3.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\l3.jpg
+++l4.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\l4.jpg
+++l5.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\l5.jpg
+++l6.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\l6.jpg
+++l7.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\l7.jpg
+++l8.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\l8.jpg
+++login.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\login.jpg
+++men-bg.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\men-bg.jpg
+++ob1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\ob1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\ob1.jpg
+++ob2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\ob2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\ob2.jpg
+++ob3.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\ob3.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\ob3.jpg
+++q1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\q1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\q1.jpg
+++r1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\r1.jpg
+++r10.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\r10.jpg
+++r11.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\r11.jpg
+++r12.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\r12.jpg
+++r2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\r2.jpg
+++r3.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\r3.jpg
+++r4.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\r4.jpg
+++r5.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\r5.jpg
+++r6.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\r6.jpg
+++r7.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\r7.jpg
+++r8.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\r8.jpg
+++r9.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\r9.jpg
+++vendor
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\js\vendor\
+++countdown.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\js\countdown.js
+++gmaps.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\js\gmaps.min.js
+++ion.rangeSlider.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\js\ion.rangeslider.js
+++jquery.ajaxchimp.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\js\jquery.ajaxchimp.min.js
+++jquery.magnific-popup.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\js\jquery.magnific-popup.min.js
+++jquery.nice-select.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\js\jquery.nice-select.min.js
+++jquery.sticky.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\js\jquery.sticky.js
+++main.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\js\main.js
+++nouislider.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\js\nouislider.min.js
+++owl.carousel.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\js\owl.carousel.min.js
+++parallax.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\js\parallax.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\parallax-js-master\parallax.min.js
+++syntax-highlighter
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\
+++_DS_Store
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\_ds_store
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\css\_ds_store
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\fonts\_ds_store
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\js\_ds_store
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\_ds_store
+++index.html
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\index.html
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\slick-1.8.0\index.html
+++theme
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\scss\theme\
+++main.scss
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\scss\main.scss
+++chartist.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\css\chartist\chartist.css
+++less
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\less\
+++HELP-US-OUT.txt
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\help-us-out.txt
+++logo-dark.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\auth\logo-dark.png
+++Logo-small-bottom.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\auth\logo-small-bottom.png
+++blog-130.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\blog\blog-130.png
+++blog-r-1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\blog\blog-r-1.jpg
+++blog-r-2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\blog\blog-r-2.jpg
+++blog-r-3.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\blog\blog-r-3.jpg
+++blog-single-1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\blog\blog-single-1.jpg
+++blog-single.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\blog\blog-single.jpg
+++blog-small-bg-1.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\blog\blog-small-bg-1.png
+++st_gallery1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\blog\st_gallery1.jpg
+++st_gallery2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\blog\st_gallery2.jpg
+++st_gallery3.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\blog\st_gallery3.jpg
+++chrome.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\browser\chrome.png
+++firefox.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\browser\firefox.png
+++ie.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\browser\ie.png
+++opera.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\browser\opera.png
+++safari.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\browser\safari.png
+++01.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\mega-menu\01.jpg
+++02.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\mega-menu\02.jpg
+++03.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\mega-menu\03.jpg
+++Euclid.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\tooltip\euclid.png
+++shape1.svg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\tooltip\shape1.svg
+++tooltip1.svg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\tooltip\tooltip1.svg
+++AUSTRALIA.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\widget\australia.jpg
+++BRAZIL.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\widget\brazil.jpg
+++DIGITALPEN.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\widget\digitalpen.jpg
+++GERMANY.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\widget\germany.jpg
+++IPAD.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\widget\ipad.jpg
+++PHONE1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\widget\phone1.jpg
+++PHONE2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\widget\phone2.jpg
+++PHONE3.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\widget\phone3.jpg
+++PHONE4.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\widget\phone4.jpg
+++prod1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\widget\prod1.jpg
+++prod2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\widget\prod2.jpg
+++prod3.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\widget\prod3.jpg
+++prod4.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\widget\prod4.jpg
+++TABLET.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\widget\tablet.jpg
+++UK.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\widget\uk.jpg
+++USA.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\widget\usa.jpg
+++wather2bottom.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\widget\wather2bottom.png
+++wather2m.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\widget\wather2m.png
+++wather2star1.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\widget\wather2star1.png
+++wather2star2.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\widget\wather2star2.png
+++watherbottom.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\widget\watherbottom.png
+++wathernature.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\widget\wathernature.png
+++watherstar1.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\widget\watherstar1.png
+++watherstar2.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\images\widget\watherstar2.png
+++Chart.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\js\chart.js\chart.js
+++jquery.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\js\jquery\jquery.min.js
+++jquery.slimscroll.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\js\jquery-slimscroll\jquery.slimscroll.js
+++jquery-ui.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\js\jquery-ui\jquery-ui.min.js
+++css-scrollbars.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\js\modernizr\css-scrollbars.js
+++modernizr.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\js\modernizr\modernizr.js
+++popper.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\js\popper.js\popper.min.js
+++raphael.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\js\raphael\raphael.min.js
+++accordion.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\accordion\accordion.js
+++accordion.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\accordion\accordion.min.js
+++amchart
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\dashboard\amchart\
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\widget\amchart\
+++custom-dashboard.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\dashboard\custom-dashboard.js
+++gmaps.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\google-maps\gmaps.js
+++google-maps.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\google-maps\google-maps.js
+++notification.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\notification\notification.css
+++notification.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\notification\notification.js
+++todo.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\todo\todo.js
+++excanvas.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\widget\excanvas.js
+++easing.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\easing\easing.js
+++webfonts
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\fontawesome-free-5.0.1\webfonts\
+++animation.gsap.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\greensock\animation.gsap.min.js
+++ScrollToPlugin.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\greensock\scrolltoplugin.min.js
+++TimelineMax.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\greensock\timelinemax.min.js
+++TweenMax.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\greensock\tweenmax.min.js
+++isotope.pkgd.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\isotope\isotope.pkgd.min.js
+++jquery-ui.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\jquery-ui-1.12.1.custom\jquery-ui.css
+++jquery-ui.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\jquery-ui-1.12.1.custom\jquery-ui.js
+++ajax-loader.gif
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\owlcarousel2-2.2.1\ajax-loader.gif
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\slick-1.8.0\ajax-loader.gif
+++owl.carousel.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\owlcarousel2-2.2.1\owl.carousel.js
+++owl.theme.default.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\owlcarousel2-2.2.1\owl.theme.default.css
+++owl.video.play.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\owlcarousel2-2.2.1\owl.video.play.png
+++ScrollMagic.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\scrollmagic\scrollmagic.min.js
+++slick.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\slick-1.8.0\slick.css
+++slick.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\slick-1.8.0\slick.js
+++bootstrap.min.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\styles\bootstrap4\bootstrap.min.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\css\bootstrap\css\bootstrap.min.css
+++bootstrap.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\styles\bootstrap4\bootstrap.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\js\vendor\bootstrap.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\js\bootstrap\js\bootstrap.min.js
+++banner-bg.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\banner\banner-bg.jpg
+++banner-img.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\banner\banner-img.png
+++common-banner.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\banner\common-banner.jpg
+++next.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\banner\next.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\product\next.png
+++prev.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\banner\prev.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\product\prev.png
+++cat-post
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\cat-post\
+++causes
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\causes\
+++latest-post
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\latest-post\
+++main-blog
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\main-blog\
+++popular-post
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\popular-post\
+++add.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\add.jpg
+++author.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\author.png
+++c1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\c1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\category\c1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\c1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\sd\c1.jpg
+++c2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\c2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\category\c2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\c2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\sd\c2.jpg
+++c3.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\c3.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\category\c3.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\c3.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\sd\c3.jpg
+++c4.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\c4.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\category\c4.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\c4.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\sd\c4.jpg
+++c5.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\c5.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\category\c5.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\sd\c5.jpg
+++c6.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\c6.jpg
+++feature-img1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\feature-img1.jpg
+++next.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\next.jpg
+++post-img1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\post-img1.jpg
+++post-img2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\post-img2.jpg
+++prev.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\prev.jpg
+++1.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\brand\1.png
+++2.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\brand\2.png
+++3.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\brand\3.png
+++4.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\brand\4.png
+++5.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\brand\5.png
+++s-p1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\category\s-p1.jpg
+++d.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\elements\d.jpg
+++disabled-check.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\elements\disabled-check.png
+++disabled-radio.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\elements\disabled-radio.png
+++f1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\elements\f1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\f1.jpg
+++f2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\elements\f2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\f2.jpg
+++f3.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\elements\f3.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\f3.jpg
+++f4.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\elements\f4.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\f4.jpg
+++f5.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\elements\f5.jpg
+++f6.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\elements\f6.jpg
+++f7.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\elements\f7.jpg
+++f8.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\elements\f8.jpg
+++g1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\elements\g1.jpg
+++g2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\elements\g2.jpg
+++g3.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\elements\g3.jpg
+++g4.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\elements\g4.jpg
+++g5.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\elements\g5.jpg
+++g6.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\elements\g6.jpg
+++g7.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\elements\g7.jpg
+++g8.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\elements\g8.jpg
+++primary-check.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\elements\primary-check.png
+++primary-radio.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\elements\primary-radio.png
+++success-check.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\elements\success-check.png
+++success-radio.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\elements\success-radio.png
+++f-icon1.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\features\f-icon1.png
+++f-icon2.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\features\f-icon2.png
+++f-icon3.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\features\f-icon3.png
+++f-icon4.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\features\f-icon4.png
+++b1.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\b1.png
+++b2.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\b2.png
+++b3.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\b3.png
+++b4.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\b4.png
+++cd-bg.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\cd-bg.jpg
+++cd.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\cd.png
+++ci1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\ci1.jpg
+++ci2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\ci2.jpg
+++ci3.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\ci3.jpg
+++m1.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\m1.png
+++mp1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\mp1.jpg
+++mp10.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\mp10.jpg
+++mp11.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\mp11.jpg
+++mp12.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\mp12.jpg
+++mp2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\mp2.jpg
+++mp3.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\mp3.jpg
+++mp4.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\mp4.jpg
+++mp5.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\mp5.jpg
+++mp6.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\mp6.jpg
+++mp7.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\mp7.jpg
+++mp8.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\mp8.jpg
+++mp9.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\mp9.jpg
+++p1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\p1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\product\p1.jpg
+++p2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\p2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\product\p2.jpg
+++p3.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\p3.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\product\p3.jpg
+++p4.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\p4.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\product\p4.jpg
+++p5.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\p5.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\product\p5.jpg
+++p6.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\p6.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\product\p6.jpg
+++p7.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\p7.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\product\p7.jpg
+++p8.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\p8.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\product\p8.jpg
+++pl1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\pl1.jpg
+++pl2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\pl2.jpg
+++pl3.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\pl3.jpg
+++pl4.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\pl4.jpg
+++pl5.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\pl5.jpg
+++pl6.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\pl6.jpg
+++pl7.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\pl7.jpg
+++pl8.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\pl8.jpg
+++pm.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\pm.jpg
+++u1.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\u1.png
+++u2.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\u2.png
+++u3.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\organic-food\u3.png
+++card.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\product\card.jpg
+++e-p1.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\product\e-p1.png
+++review-1.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\product\review-1.png
+++review-2.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\product\review-2.png
+++review-3.png
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\product\review-3.png
+++jquery-2.2.4.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\js\vendor\jquery-2.2.4.min.js
+++normalize.min.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\css\normalize.min.css
+++jquery-1.11.0.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\js\jquery-1.11.0.min.js
+++jquery.nav.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\js\jquery.nav.js
+++scripts
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\scripts\
+++_banner.scss
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\scss\theme\_banner.scss
+++_blog.scss
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\scss\theme\_blog.scss
+++_common.scss
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\scss\theme\_common.scss
+++_contact.scss
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\scss\theme\_contact.scss
+++_elements.scss
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\scss\theme\_elements.scss
+++_footer.scss
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\scss\theme\_footer.scss
+++_header.scss
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\scss\theme\_header.scss
+++_home.scss
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\scss\theme\_home.scss
+++_mixins.scss
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\scss\theme\_mixins.scss
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\scss\_mixins.scss
+++_predefine.scss
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\scss\theme\_predefine.scss
+++_product.scss
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\scss\theme\_product.scss
+++_reset.scss
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\scss\theme\_reset.scss
+++_variables.scss
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\scss\theme\_variables.scss
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\scss\_variables.scss
+++morris.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\css\morris.js\css\morris.css
+++font-awesome.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\css\font-awesome.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\scss\font-awesome.css
+++animated.less
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\less\animated.less
+++bordered-pulled.less
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\less\bordered-pulled.less
+++core.less
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\less\core.less
+++fixed-width.less
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\less\fixed-width.less
+++font-awesome.less
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\less\font-awesome.less
+++icons.less
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\less\icons.less
+++larger.less
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\less\larger.less
+++list.less
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\less\list.less
+++mixins.less
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\less\mixins.less
+++path.less
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\less\path.less
+++rotated-flipped.less
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\less\rotated-flipped.less
+++screen-reader.less
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\less\screen-reader.less
+++stacked.less
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\less\stacked.less
+++variables.less
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\less\variables.less
+++_animated.scss
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\scss\_animated.scss
+++_bordered-pulled.scss
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\scss\_bordered-pulled.scss
+++_core.scss
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\scss\_core.scss
+++_fixed-width.scss
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\scss\_fixed-width.scss
+++_icons.scss
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\scss\_icons.scss
+++_larger.scss
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\scss\_larger.scss
+++_list.scss
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\scss\_list.scss
+++_path.scss
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\scss\_path.scss
+++_rotated-flipped.scss
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\scss\_rotated-flipped.scss
+++_screen-reader.scss
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\scss\_screen-reader.scss
+++_stacked.scss
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\scss\_stacked.scss
+++font-awesome.css.map
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\scss\font-awesome.css.map
+++font-awesome.scss
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\font-awesome\scss\font-awesome.scss
+++icofont.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\icofont\css\icofont.css
+++icofont.eot
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\icofont\fonts\icofont.eot
+++icofont.svg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\icofont\fonts\icofont.svg
+++icofont.ttf
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\icofont\fonts\icofont.ttf
+++icofont.woff
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\icon\icofont\fonts\icofont.woff
+++waves.min.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\waves\css\waves.min.css
+++waves.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\waves\js\waves.min.js
+++amcharts.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\widget\amchart\amcharts.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\dashboard\amchart\js\amcharts.js
+++amcharts.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\widget\amchart\amcharts.min.js
+++export.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\widget\amchart\export.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\dashboard\amchart\js\export.min.js
+++gauge.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\widget\amchart\gauge.js
+++gauge.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\widget\amchart\gauge.min.js
+++light.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\widget\amchart\light.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\dashboard\amchart\js\light.js
+++light.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\widget\amchart\light.min.js
+++pie.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\widget\amchart\pie.js
+++pie.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\widget\amchart\pie.min.js
+++serial.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\widget\amchart\serial.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\dashboard\amchart\js\serial.js
+++serial.min.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\widget\amchart\serial.min.js
+++fontawesome-all.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\fontawesome-free-5.0.1\css\fontawesome-all.css
+++fa-brands-400.eot
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\fontawesome-free-5.0.1\webfonts\fa-brands-400.eot
+++fa-brands-400.svg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\fontawesome-free-5.0.1\webfonts\fa-brands-400.svg
+++fa-brands-400.ttf
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\fontawesome-free-5.0.1\webfonts\fa-brands-400.ttf
+++fa-brands-400.woff
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\fontawesome-free-5.0.1\webfonts\fa-brands-400.woff
+++fa-brands-400.woff2
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\fontawesome-free-5.0.1\webfonts\fa-brands-400.woff2
+++fa-regular-400.eot
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\fontawesome-free-5.0.1\webfonts\fa-regular-400.eot
+++fa-regular-400.svg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\fontawesome-free-5.0.1\webfonts\fa-regular-400.svg
+++fa-regular-400.ttf
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\fontawesome-free-5.0.1\webfonts\fa-regular-400.ttf
+++fa-regular-400.woff
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\fontawesome-free-5.0.1\webfonts\fa-regular-400.woff
+++fa-regular-400.woff2
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\fontawesome-free-5.0.1\webfonts\fa-regular-400.woff2
+++fa-solid-900.eot
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\fontawesome-free-5.0.1\webfonts\fa-solid-900.eot
+++fa-solid-900.svg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\fontawesome-free-5.0.1\webfonts\fa-solid-900.svg
+++fa-solid-900.ttf
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\fontawesome-free-5.0.1\webfonts\fa-solid-900.ttf
+++fa-solid-900.woff
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\fontawesome-free-5.0.1\webfonts\fa-solid-900.woff
+++fa-solid-900.woff2
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\fontawesome-free-5.0.1\webfonts\fa-solid-900.woff2
+++slick.eot
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\slick-1.8.0\fonts\slick.eot
+++slick.svg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\slick-1.8.0\fonts\slick.svg
+++slick.ttf
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\slick-1.8.0\fonts\slick.ttf
+++slick.woff
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\home asset\plugins\slick-1.8.0\fonts\slick.woff
+++cat-post-1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\cat-post\cat-post-1.jpg
+++cat-post-2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\cat-post\cat-post-2.jpg
+++cat-post-3.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\cat-post\cat-post-3.jpg
+++causes-1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\causes\causes-1.jpg
+++causes-2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\causes\causes-2.jpg
+++causes-3.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\causes\causes-3.jpg
+++l-post-1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\latest-post\l-post-1.jpg
+++l-post-2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\latest-post\l-post-2.jpg
+++l-post-3.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\latest-post\l-post-3.jpg
+++l-post-4.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\latest-post\l-post-4.jpg
+++m-blog-1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\main-blog\m-blog-1.jpg
+++m-blog-2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\main-blog\m-blog-2.jpg
+++m-blog-3.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\main-blog\m-blog-3.jpg
+++m-blog-4.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\main-blog\m-blog-4.jpg
+++m-blog-5.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\main-blog\m-blog-5.jpg
+++post1.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\popular-post\post1.jpg
+++post2.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\popular-post\post2.jpg
+++post3.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\popular-post\post3.jpg
+++post4.jpg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\img\blog\popular-post\post4.jpg
+++shAutoloader.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\scripts\shautoloader.js
+++shBrushAppleScript.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\scripts\shbrushapplescript.js
+++shBrushAS3.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\scripts\shbrushas3.js
+++shBrushBash.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\scripts\shbrushbash.js
+++shBrushColdFusion.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\scripts\shbrushcoldfusion.js
+++shBrushCpp.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\scripts\shbrushcpp.js
+++shBrushCSharp.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\scripts\shbrushcsharp.js
+++shBrushCss.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\scripts\shbrushcss.js
+++shBrushDelphi.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\scripts\shbrushdelphi.js
+++shBrushDiff.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\scripts\shbrushdiff.js
+++shBrushErlang.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\scripts\shbrusherlang.js
+++shBrushGroovy.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\scripts\shbrushgroovy.js
+++shBrushJava.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\scripts\shbrushjava.js
+++shBrushJavaFX.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\scripts\shbrushjavafx.js
+++shBrushJScript.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\scripts\shbrushjscript.js
+++shBrushPerl.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\scripts\shbrushperl.js
+++shBrushPhp.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\scripts\shbrushphp.js
+++shBrushPlain.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\scripts\shbrushplain.js
+++shBrushPowerShell.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\scripts\shbrushpowershell.js
+++shBrushPython.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\scripts\shbrushpython.js
+++shBrushRuby.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\scripts\shbrushruby.js
+++shBrushSass.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\scripts\shbrushsass.js
+++shBrushScala.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\scripts\shbrushscala.js
+++shBrushSql.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\scripts\shbrushsql.js
+++shBrushVb.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\scripts\shbrushvb.js
+++shBrushXml.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\scripts\shbrushxml.js
+++shCore.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\scripts\shcore.js
+++shLegacy.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\scripts\shlegacy.js
+++shCore.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\styles\shcore.css
+++shCoreDefault.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\styles\shcoredefault.css
+++shCoreDjango.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\styles\shcoredjango.css
+++shCoreEclipse.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\styles\shcoreeclipse.css
+++shCoreEmacs.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\styles\shcoreemacs.css
+++shCoreFadeToGrey.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\styles\shcorefadetogrey.css
+++shCoreMDUltra.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\styles\shcoremdultra.css
+++shCoreMidnight.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\styles\shcoremidnight.css
+++shCoreRDark.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\styles\shcorerdark.css
+++shThemeDefault.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\styles\shthemedefault.css
+++shThemeDjango.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\styles\shthemedjango.css
+++shThemeEclipse.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\styles\shthemeeclipse.css
+++shThemeEmacs.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\styles\shthemeemacs.css
+++shThemeFadeToGrey.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\styles\shthemefadetogrey.css
+++shThemeMDUltra.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\styles\shthememdultra.css
+++shThemeMidnight.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\styles\shthememidnight.css
+++shThemeRDark.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\productassets\karma shop-doc\syntax-highlighter\styles\shthemerdark.css
+++amchart.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\dashboard\amchart\css\amchart.css
+++export.css
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\dashboard\amchart\css\export.css
+++custom-amchart.js
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\dashboard\amchart\js\custom-amchart.js
+++dragIconRoundBig.svg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\dashboard\amchart\js\images\dragiconroundbig.svg
+++dragIconRoundBigH.svg
+i:{b90c04ad-1e0f-4af4-b98a-d7a1166fee7b}:d:\experiment\projectadmin\projectadmin\assets\pages\dashboard\amchart\js\images\dragiconroundbigh.svg

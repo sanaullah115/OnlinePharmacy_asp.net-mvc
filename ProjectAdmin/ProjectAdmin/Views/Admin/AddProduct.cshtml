@@ -1,0 +1,46 @@
+﻿
+@{
+    ViewBag.Title = "AddProduct";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<div class="container bg-white mt-4 p-5">
+  
+    <div class="row">
+        <div class="col-md-12 mb-3">
+            <h4 class="">Add product</h4>
+
+        </div>
+        <div class="col-md-12">
+            <form action="AddProduct" method="post" enctype="multipart/form-data">
+                <label for="Pname">Product Name</label>
+                <input type="text" name="ProductName" class="form-control" id="Pname">
+                <br>
+                <label for="desc">Description</label>
+                <input type="text" name="Description" class="form-control" id="desc">
+                <br>
+                <label for="img">Add Image</label>
+                <input type="file" name="file" class="form-control" id="img">
+                <br>
+                <label for="quan">Quantity</label>
+                <input type="number" name="Quantity" class="form-control" id="quan">
+                <br>
+                <label for="pr">Price</label>
+                <input type="text" name="Price" class="form-control" id="pr">
+                <br>
+                <label for="Cat">Choose Category</label>
+                <select name="Category_FK" class="form-control" style="width:100% !important;">
+                        @foreach (var item in ViewBag.Category)
+                        { <option value="@item.CategoryId">@item.CategoryName</option>
+                    }
+                </select>
+                <br>
+                <input type="submit" class="btn btn-primary" value="Add Product">
+            </form>
+        </div
+@Html.Raw(TempData["AddProductMessage"])
+
+    </div>
+</div>

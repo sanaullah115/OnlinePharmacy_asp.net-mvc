@@ -1,0 +1,97 @@
+﻿@model ProjectAdmin.Models.SignUp
+
+@{
+    ViewBag.Title = "EditUSersRole";
+}
+<style>
+    select.form-control:not([size]):not([multiple]) {
+        height: 43px !important;
+        width: 100% !important;
+    }
+</style>
+<!-- Basic table card start -->
+<div class="card">
+    <div class="card-header">
+        <div class="card-header-right">
+            <ul class="list-unstyled card-option">
+                <li><i class="fa fa fa-wrench open-card-option"></i></li>
+                <li><i class="fa fa-window-maximize full-card"></i></li>
+                <li><i class="fa fa-minus minimize-card"></i></li>
+                <li><i class="fa fa-refresh reload-card"></i></li>
+                <li><i class="fa fa-trash close-card"></i></li>
+            </ul>
+        </div>
+    </div>
+    <div class="card-block">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+
+                    <h4>Edit User Role</h4>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    @using (Html.BeginForm())
+                    {
+                        @Html.AntiForgeryToken()
+
+                        <div class="form-horizontal mt-3">
+                            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                            @Html.HiddenFor(model => model.Id)
+
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.Username, htmlAttributes: new { @class = "control-label col-md-2" });
+                                <div class="col-md-10">
+                                    @Html.TextBoxFor(model => model.Username, new { @class = "form-control", @Value = ViewBag.EditFetchData.Username, disabled = "disabled" })
+                                    @Html.ValidationMessageFor(model => model.Username, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+                                <div class="col-md-10">
+                                    @Html.TextBoxFor(model => model.Email, new { @class = "form-control", @Value = ViewBag.EditFetchData.Email, disabled = "disabled" })
+                                    @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+
+
+                            <div class="form-group">
+                                <label for="exampleFormControlSelect1" class="control-label col-md-2">User Role</label>
+                                <div class="col-md-10">
+                                    <select class="form-control" id="exampleFormControlSelect1" name="Roles_Fk">
+                                        @foreach (var lst in ViewBag.FetchRole)
+                                        {
+                                                  
+                                            if (@lst.UserID == @ViewBag.EditFetchData.Roles_Fk)
+                                            {
+                                                <option value="@lst.UserID" selected>@lst.Roles</option>
+                                            }
+                                            else
+                                            {
+                                                <option value="@lst.UserID">@lst.Roles</option>
+                                            }
+
+                                        }
+                                    </select>
+                                    @Html.ValidationMessageFor(model => model.UserRole.Roles, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+
+                            <div class="form-group">
+                                <div class="col-md-offset-2 col-md-10">
+                                    <input type="submit" value="Edit Roles" class="btn btn-info" />
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+        </div>
+</div>

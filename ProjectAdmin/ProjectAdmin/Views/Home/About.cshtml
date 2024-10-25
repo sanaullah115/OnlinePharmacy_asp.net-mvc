@@ -1,0 +1,142 @@
+﻿
+@{
+    ViewBag.Title = "About";
+    Layout = "~/Views/Shared/Home_Layout.cshtml";
+}
+
+@*<h2>About Us</h2>*@
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <title>Online Pharmacy - About Us</title>
+<style>
+    section {
+        padding: 60px 0;
+    }
+
+    #accordion-style-1 h1,
+    #accordion-style-1 a {
+        color: #007b5e;
+    }
+
+    #accordion-style-1 .btn-link {
+        font-weight: 400;
+        color: #007b5e;
+        background-color: transparent;
+        text-decoration: none !important;
+        font-size: 16px;
+        font-weight: bold;
+        padding-left: 25px;
+    }
+
+    #accordion-style-1 .card-body {
+        border-top: 2px solid #007b5e;
+    }
+
+    #accordion-style-1 .card-header .btn.collapsed .fa.main {
+        display: none;
+    }
+
+    #accordion-style-1 .card-header .btn .fa.main {
+        background: #007b5e;
+        padding: 13px 11px;
+        color: #ffffff;
+        width: 35px;
+        height: 41px;
+        position: absolute;
+        left: -1px;
+        top: 10px;
+        border-top-right-radius: 7px;
+        border-bottom-right-radius: 7px;
+        display: block;
+    }
+</style>
+</head>
+<body>
+
+        <div class="container-fluid bg-gray" id="accordion-style-1">
+            <div class="container">
+                <section>
+                    <div class="row">
+                        <div class="col-12">
+                            <h1 class="text-green mb-4 text-center">About Us</h1>
+                            <p class="text-center">***We operate as a licensed pharmacy (License# 1265, Issued on 12/3/2014) and pay tax under National Tax Number 423952-7***</p>
+                        </div>
+                        <div class="col-10 mx-auto">
+                            <div class="accordion" id="accordionExample">
+                                <div class="card">
+                                    <div class="card-header" id="headingOne">
+                                        <h5 class="mb-0">
+                                            <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                                <i class="fa fa-amazon main"></i><i class="fa fa-angle-double-right mr-3"></i>About Pharmacy.
+                                            </button>
+                                        </h5>
+                                    </div>
+
+                                    <div id="collapseOne" class="collapse show fade" aria-labelledby="headingOne" data-parent="#accordionExample">
+                                        <div class="card-body">
+                                            Pharmacy is an innovative pharmacy-led healthcare group. Our mission is to provide integrated pharmacy services with Convenience and Quality. We are reinventing the concept of retail pharmacy by taking authentic medicines to patients’ door-step as quickly as possible.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card">
+                                    <div class="card-header" id="headingTwo">
+                                        <h5 class="mb-0">
+                                            <button class="btn btn-link collapsed btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                                <i class="fa fa-plus main"></i><i class="fa fa-angle-double-right mr-3"></i>How do we interact with our Customers?
+                                            </button>
+                                        </h5>
+                                    </div>
+                                    <div id="collapseTwo" class="collapse fade" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                                        <div class="card-body">
+                                            Pharmacy is a pharmacy with a difference. Only qualified pharmacists handle all our pharmaceutical products, including procurement, storage, and dispensing. These associates are available 09:00AM to 09:00PM (Monday to Saturday) and are a phone call away from all our valued customers.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card">
+                                    <div class="card-header" id="headingThree">
+                                        <h5 class="mb-0">
+                                            <button class="btn btn-link collapsed btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                                <i class="fa fa-expeditedssl main"></i><i class="fa fa-angle-double-right mr-3"></i>How do we ensure Authenticity?
+                                            </button>
+                                        </h5>
+                                    </div>
+                                    <div id="collapseThree" class="collapse fade" aria-labelledby="headingThree" data-parent="#accordionExample">
+                                        <div class="card-body">
+                                            We only procure our medicines directly from manufacturers or their distributors. Most large pharmaceuticals are in direct contact with us at a senior management level. There is constant flow of relevant information and quality control mechanisms to ensure authenticity of our medicines.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card">
+                                    <div class="card-header" id="headingFour">
+                                        <h5 class="mb-0">
+                                            <button class="btn btn-link collapsed btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                                <i class="fa fa-envelope main"></i><i class="fa fa-angle-double-right mr-3"></i>Why are we convenient?.
+                                            </button>
+                                        </h5>
+                                    </div>
+                                    <div id="collapseFour" class="collapse fade" aria-labelledby="headingFour" data-parent="#accordionExample">
+                                        <div class="card-body">
+                                            All your pharmaceutical needs are met at your doorstep by our trained riders, in safe and hygienic conditions. We maintain recommended temperature level and packaging material to prevent any damage while in storage or transit.
+
+                                            Your order will be delivered to you in a sealed package, which you may accept only if the seal is intact. Before accepting your medicines, you have full authority to return the order if the seal is tampered. To ensure authenticity of medicines provided by Dawaai, we will not be able to return/exchange medicines once sold and accepted by you. This is for your safety and to maintain quality standards.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+
+
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+</body>
+</html>
+
+

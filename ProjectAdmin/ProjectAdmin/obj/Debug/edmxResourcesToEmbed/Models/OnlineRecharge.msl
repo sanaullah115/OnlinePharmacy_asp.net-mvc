@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AdminPannelModelStoreContainer" CdmEntityContainer="AdminPannelEntities5">
+    <EntitySetMapping Name="AddPackages">
+      <EntityTypeMapping TypeName="AdminPannelModel.AddPackage">
+        <MappingFragment StoreEntitySet="AddPackages">
+          <ScalarProperty Name="AddPackagesID" ColumnName="AddPackagesID" />
+          <ScalarProperty Name="AddPackagesName" ColumnName="AddPackagesName" />
+          <ScalarProperty Name="AddPackagesRecievedAmount" ColumnName="AddPackagesRecievedAmount" />
+          <ScalarProperty Name="AddPackagesAmountCharged" ColumnName="AddPackagesAmountCharged" />
+          <ScalarProperty Name="AddPackagesPackageNameType" ColumnName="AddPackagesPackageNameType" />
+          <ScalarProperty Name="Id_FK" ColumnName="Id_FK" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="checkoutdetails">
+      <EntityTypeMapping TypeName="AdminPannelModel.checkoutdetail">
+        <MappingFragment StoreEntitySet="checkoutdetail">
+          <ScalarProperty Name="Checkoutid" ColumnName="Checkoutid" />
+          <ScalarProperty Name="PhoneNumber" ColumnName="PhoneNumber" />
+          <ScalarProperty Name="CreditCardNumber" ColumnName="CreditCardNumber" />
+          <ScalarProperty Name="Country" ColumnName="Country" />
+          <ScalarProperty Name="TotalBill" ColumnName="TotalBill" />
+          <ScalarProperty Name="DateofPurchasing" ColumnName="DateofPurchasing" />
+          <ScalarProperty Name="PackagesID_FK" ColumnName="PackagesID_FK" />
+          <ScalarProperty Name="Id_FK" ColumnName="Id_FK" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Countries">
+      <EntityTypeMapping TypeName="AdminPannelModel.Country">
+        <MappingFragment StoreEntitySet="Country">
+          <ScalarProperty Name="CID" ColumnName="CID" />
+          <ScalarProperty Name="Country1" ColumnName="Country" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="dbContacts">
+      <EntityTypeMapping TypeName="AdminPannelModel.dbContact">
+        <MappingFragment StoreEntitySet="dbContact">
+          <ScalarProperty Name="ContactID" ColumnName="ContactID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Subject" ColumnName="Subject" />
+          <ScalarProperty Name="Message" ColumnName="Message" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Postpaidbills">
+      <EntityTypeMapping TypeName="AdminPannelModel.Postpaidbill">
+        <MappingFragment StoreEntitySet="Postpaidbill">
+          <ScalarProperty Name="PostPaidId" ColumnName="PostPaidId" />
+          <ScalarProperty Name="Tittle" ColumnName="Tittle" />
+          <ScalarProperty Name="InternetData" ColumnName="InternetData" />
+          <ScalarProperty Name="NetworkToNetworkMinutes" ColumnName="NetworkToNetworkMinutes" />
+          <ScalarProperty Name="OtherNetworkMinutes" ColumnName="OtherNetworkMinutes" />
+          <ScalarProperty Name="SMS" ColumnName="SMS" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Id_FK" ColumnName="Id_FK" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SignUps">
+      <EntityTypeMapping TypeName="AdminPannelModel.SignUp">
+        <MappingFragment StoreEntitySet="SignUp">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Fname" ColumnName="Fname" />
+          <ScalarProperty Name="Lname" ColumnName="Lname" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="ConfirmPassword" ColumnName="ConfirmPassword" />
+          <ScalarProperty Name="TermsConditions" ColumnName="TermsConditions" />
+          <ScalarProperty Name="Newsletter" ColumnName="Newsletter" />
+          <ScalarProperty Name="ImagePath" ColumnName="ImagePath" />
+          <ScalarProperty Name="CreatedAt" ColumnName="CreatedAt" />
+          <ScalarProperty Name="UpdatedBy" ColumnName="UpdatedBy" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="Roles_Fk" ColumnName="Roles_Fk" />
+          <ScalarProperty Name="Country_Fk" ColumnName="Country_Fk" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserRoles">
+      <EntityTypeMapping TypeName="AdminPannelModel.UserRole">
+        <MappingFragment StoreEntitySet="UserRoles">
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="Roles" ColumnName="Roles" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Feedbacks">
+      <EntityTypeMapping TypeName="AdminPannelModel.Feedback">
+        <MappingFragment StoreEntitySet="Feedback">
+          <ScalarProperty Name="checkoutid_FK" ColumnName="checkoutid_FK" />
+          <ScalarProperty Name="Id_FK" ColumnName="Id_FK" />
+          <ScalarProperty Name="Message" ColumnName="Message" />
+          <ScalarProperty Name="Rating" ColumnName="Rating" />
+          <ScalarProperty Name="FeedbackID" ColumnName="FeedbackID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

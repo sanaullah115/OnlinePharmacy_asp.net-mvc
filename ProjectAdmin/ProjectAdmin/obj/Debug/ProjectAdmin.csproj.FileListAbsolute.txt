@@ -1,0 +1,295 @@
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\ProjectAdmin.dll.config
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\ProjectAdmin.dll
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\ProjectAdmin.pdb
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\roslyn\csc.exe
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\roslyn\csc.exe.config
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\roslyn\csc.rsp
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\roslyn\csi.exe
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\roslyn\csi.exe.config
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\roslyn\csi.rsp
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Buffers.dll
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Memory.dll
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\roslyn\vbc.exe
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\roslyn\vbc.exe.config
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\roslyn\vbc.rsp
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\BouncyCastle.Crypto.dll
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\EntityFramework.dll
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\System.Web.Helpers.dll
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\System.Web.Mvc.dll
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\System.Web.Razor.dll
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\System.Web.Webpages.dll
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\System.Web.Webpages.Razor.dll
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\BouncyCastle.Crypto.xml
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\EntityFramework.xml
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\System.Web.Razor.xml
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\System.Web.Webpages.xml
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\System.Web.Webpages.Razor.xml
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\System.Web.Helpers.xml
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\bin\System.Web.Mvc.xml
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\obj\Debug\ProjectAdmin.csproj.CoreCompileInputs.cache
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\obj\Debug\ProjectAdmin.csproj.CopyComplete
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\obj\Debug\ProjectAdmin.dll
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\obj\Debug\ProjectAdmin.pdb
+C:\Users\asada\source\repos\ProjectAdmin\ProjectAdmin\obj\Debug\ProjectAdmin.csproj.AssemblyReference.cache
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\ProjectAdmin.dll.config
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\ProjectAdmin.dll
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\ProjectAdmin.pdb
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\roslyn\csc.exe
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\roslyn\csc.exe.config
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\roslyn\csc.rsp
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\roslyn\csi.exe
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\roslyn\csi.exe.config
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\roslyn\csi.rsp
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Buffers.dll
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Memory.dll
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\roslyn\vbc.exe
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\roslyn\vbc.exe.config
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\roslyn\vbc.rsp
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\BouncyCastle.Crypto.dll
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\EntityFramework.dll
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\System.Web.Helpers.dll
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\System.Web.Mvc.dll
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\System.Web.Razor.dll
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\System.Web.Webpages.dll
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\System.Web.Webpages.Razor.dll
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\BouncyCastle.Crypto.xml
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\EntityFramework.xml
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\System.Web.Razor.xml
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\System.Web.Webpages.xml
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\System.Web.Webpages.Razor.xml
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\System.Web.Helpers.xml
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\bin\System.Web.Mvc.xml
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\obj\Debug\ProjectAdmin.csproj.CoreCompileInputs.cache
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\obj\Debug\ProjectAdmin.csproj.CopyComplete
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\obj\Debug\ProjectAdmin.dll
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\obj\Debug\ProjectAdmin.pdb
+C:\Users\syeds\Videos\ProjectAdmin\ProjectAdmin\obj\Debug\ProjectAdmin.csproj.AssemblyReference.cache
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\ProjectAdmin.dll.config
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\ProjectAdmin.dll
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\ProjectAdmin.pdb
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\roslyn\csc.exe
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\roslyn\csc.exe.config
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\roslyn\csc.rsp
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\roslyn\csi.exe
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\roslyn\csi.exe.config
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\roslyn\csi.rsp
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Buffers.dll
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Memory.dll
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\roslyn\vbc.exe
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\roslyn\vbc.exe.config
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\roslyn\vbc.rsp
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\BouncyCastle.Crypto.dll
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\EntityFramework.dll
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\System.Web.Helpers.dll
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\System.Web.Mvc.dll
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\System.Web.Razor.dll
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\System.Web.Webpages.dll
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\System.Web.Webpages.Razor.dll
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\BouncyCastle.Crypto.xml
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\EntityFramework.xml
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\System.Web.Razor.xml
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\System.Web.Webpages.xml
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\System.Web.Webpages.Razor.xml
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\System.Web.Helpers.xml
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\bin\System.Web.Mvc.xml
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\obj\Debug\ProjectAdmin.csproj.CoreCompileInputs.cache
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\obj\Debug\ProjectAdmin.csproj.CopyComplete
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\obj\Debug\ProjectAdmin.dll
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\obj\Debug\ProjectAdmin.pdb
+C:\Users\kk\OneDrive\Documents\ProjectAdmin\ProjectAdmin\obj\Debug\ProjectAdmin.csproj.AssemblyReference.cache
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\ProjectAdmin.dll.config
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\ProjectAdmin.dll
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\ProjectAdmin.pdb
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\roslyn\csc.exe
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\roslyn\csc.exe.config
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\roslyn\csc.rsp
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\roslyn\csi.exe
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\roslyn\csi.exe.config
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\roslyn\csi.rsp
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Buffers.dll
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Collections.Immutable.dll
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Memory.dll
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Numerics.Vectors.dll
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Reflection.Metadata.dll
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\roslyn\vbc.exe
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\roslyn\vbc.exe.config
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\roslyn\vbc.rsp
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\roslyn\VBCSCompiler.exe
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\roslyn\VBCSCompiler.exe.config
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\BouncyCastle.Crypto.dll
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\EntityFramework.dll
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\EntityFramework.SqlServer.dll
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\Microsoft.Web.Infrastructure.dll
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\System.Web.Helpers.dll
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\System.Web.Mvc.dll
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\System.Web.Razor.dll
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\System.Web.Webpages.Deployment.dll
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\System.Web.Webpages.dll
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\System.Web.Webpages.Razor.dll
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\BouncyCastle.Crypto.xml
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\EntityFramework.xml
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\EntityFramework.SqlServer.xml
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\System.Web.Razor.xml
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\System.Web.Webpages.xml
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\System.Web.Webpages.Deployment.xml
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\System.Web.Webpages.Razor.xml
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\System.Web.Helpers.xml
+D:\Experiment\ProjectAdmin\ProjectAdmin\bin\System.Web.Mvc.xml
+D:\Experiment\ProjectAdmin\ProjectAdmin\obj\Debug\ProjectAdmin.csproj.AssemblyReference.cache
+D:\Experiment\ProjectAdmin\ProjectAdmin\obj\Debug\ProjectAdmin.csproj.CoreCompileInputs.cache
+D:\Experiment\ProjectAdmin\ProjectAdmin\obj\Debug\ProjectAdmin.csproj.CopyComplete
+D:\Experiment\ProjectAdmin\ProjectAdmin\obj\Debug\ProjectAdmin.dll
+D:\Experiment\ProjectAdmin\ProjectAdmin\obj\Debug\ProjectAdmin.pdb
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\ProjectAdmin.dll.config
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\ProjectAdmin.dll
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\ProjectAdmin.pdb
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\roslyn\csc.exe
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\roslyn\csc.exe.config
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\roslyn\csc.rsp
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\roslyn\csi.exe
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\roslyn\csi.exe.config
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\roslyn\csi.rsp
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Buffers.dll
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Memory.dll
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\roslyn\vbc.exe
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\roslyn\vbc.exe.config
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\roslyn\vbc.rsp
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\BouncyCastle.Crypto.dll
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\EntityFramework.dll
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\System.Web.Helpers.dll
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\System.Web.Mvc.dll
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\System.Web.Razor.dll
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\System.Web.Webpages.dll
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\System.Web.Webpages.Razor.dll
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\BouncyCastle.Crypto.xml
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\EntityFramework.xml
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\System.Web.Razor.xml
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\System.Web.Webpages.xml
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\System.Web.Webpages.Razor.xml
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\System.Web.Helpers.xml
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\bin\System.Web.Mvc.xml
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\obj\Debug\ProjectAdmin.csproj.AssemblyReference.cache
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\obj\Debug\ProjectAdmin.csproj.CoreCompileInputs.cache
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\obj\Debug\ProjectAdmin.csproj.CopyComplete
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\obj\Debug\ProjectAdmin.dll
+C:\Users\A and Z Computechs\Music\OnlinePharmacy\ProjectAdmin\ProjectAdmin\obj\Debug\ProjectAdmin.pdb

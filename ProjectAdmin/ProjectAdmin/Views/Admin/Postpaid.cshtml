@@ -1,0 +1,47 @@
+﻿
+@{
+    ViewBag.Title = "Postpaid";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@if (User.Identity.IsAuthenticated)
+{
+    if (User.IsInRole("Admin"))
+    {
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="card">
+                        <div class="card-header">
+                            <h5>Post Paid Packages</h5>
+                            <span><code>Add</code> Post Paid Packages</span>
+                        </div>
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-12">
+                                    <form action="Postpaid" method="post">
+                                        <label for="">Title</label>
+                                        <input type="text" name="Tittle" class="form-control">
+                                        <label for="">Internet Data</label>
+                                        <input type="text" name="InternetData" class="form-control">
+                                        <label for="">Network To Network Minutes</label>
+                                        <input type="text" name="NetworkToNetworkMinutes" class="form-control">
+                                        <label for="">Other Network Minutes</label>
+                                        <input type="text" name="OtherNetworkMinutes" class="form-control">
+                                        <label for="">SMS</label>
+                                        <input type="text" name="SMS" class="form-control">
+                                        <label for="">Price</label>
+                                        <input type="text" name="Price" class="form-control">
+                                        <input type="submit" value="Add Post Paid Package" class=" mt-3 btn btn-info" />
+                                        <br /><br />
+                                        <span>@Html.Raw(TempData["AddPostPaid"])</span>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    }
+}

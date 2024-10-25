@@ -1,0 +1,79 @@
+﻿
+@{
+    ViewBag.Title = "AddNewPackage";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    select.form-control:not([size]):not([multiple]) {
+        height: 43px !important;
+       width: 100% !important;
+    }
+</style>
+@if (User.Identity.IsAuthenticated)
+{
+    if (User.IsInRole("Admin"))
+    {
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="card">
+                        <div class="card-header">
+                            <h5>Package Type</h5>
+                            <span><code>Add</code> New Package</span>
+                        </div>
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <form action="AddNewPackage" method="post">
+                                        <label for="">Package Name</label>
+                                        <input type="text" name="AddPackagesName" class="form-control">
+                                        <label for="">Package Recieved Amount</label>
+                                        <input type="text" name="AddPackagesRecievedAmount" id="calculate" onfocusout="ABCD()" class="form-control">
+                                        <label for="">Package Amount Charged</label>
+                                        <input type="text" name="AddPackagesAmountCharged" id="Getvalue" class="form-control" readonly>
+                                        <label for="">Package Name Type</label>
+                                        <select name="AddPackagesPackageNameType" class="form-control">
+                                            <option value="Jazz-Pakistan">Jazz-Pakistan</option>
+                                            <option value="Telenor-Pakistan">Telenor-Pakistan</option>
+                                            <option value="Ufone-Pakistan">Ufone-Pakistan</option>
+                                            <option value="Warid-Pakistan">Warid-Pakistan</option>
+                                            <option value="Zong-Pakistan">Zong-Pakistan</option>
+                                            <option value="Bsnl-India">Bsnl-India</option>
+                                            <option value="Jio-India">Jio-India</option>
+                                            <option value="Vi-India">Vi-India</option>
+                                            <option value="Mtnl-India">Mtnl-India</option>
+                                            <option value="Airtel-India">Airtel-India</option>
+                                            <option value="Algar-Brazil">Algar-Brazil</option>
+                                            <option value="Claro-Brazil">Claro-Brazil</option>
+                                            <option value="Oi-Brazil">Oi-Brazil</option>
+                                            <option value="Tim-Brazil">Tim-Brazil</option>
+                                            <option value="Vivo-Brazil">Vivo-Brazil</option>
+                                            <option value="Boost-Australia">Boost-Australia</option>
+                                            <option value="Lyca-Australia">Lyca-Australia</option>
+                                            <option value="Optus-Australia">Optus-Australia</option>
+                                            <option value="Telstra-Australia">Telstra-Australia</option>
+                                            <option value="Vodafone-Australia">Vodafone-Australia</option>
+                                        </select>
+                                        <input type="submit" value="Add Package" class=" mt-3 btn btn-info" />
+                                        <br /><br />
+                                        <span>@Html.Raw(TempData["AddPackagae"])</span>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    }
+}
+
+<script>
+    function ABCD() {
+        var x = parseInt(document.getElementById("calculate").value);
+        var result = (x / 170).toFixed(2);
+        document.getElementById("Getvalue").value=result;
+    }
+</script>
